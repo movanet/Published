@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "544cc333c08a19e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "535dfe05b36260ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a81dde90b61616a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a test page for published vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b48bd89c7addbad8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e286438f180135d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1843bf545af6f6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d9e4eae3483b774",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c77b38a557dd7d88",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1d7977139290b9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5c74118eb0293fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1144aa0aebc8939",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "This is a test page for published vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8469d0bddbd6ba8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "This is a test page for published vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d045ae6bedd780c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6bf2a2aebb08c175",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "This is a test page for published vault.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a81dde90b61616a",
+  "lastOpenFiles": [
+    "This is a test page for published vault.md"
+  ]
+}
