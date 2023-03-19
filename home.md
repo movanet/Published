@@ -15,4 +15,4 @@ In the background is the picture of Mount Kilimanjaro that I took in my lodge ne
 
 This is the link to my [Google Scholar](https://scholar.google.com/citations?user=YYWNNTEAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/movanet/) and Twitter pages. You can email me at movanet(at)gmail.com 
 
-This site is still under development as transition from other blogging platforms. 
+This site is still under development as I transition from other blogging platforms. 
