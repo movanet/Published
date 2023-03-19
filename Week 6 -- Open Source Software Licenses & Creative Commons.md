@@ -41,7 +41,7 @@ This module will provide an introduction and overview of open source software li
 3. Enforcement: Finally, enforcement of open source software licenses can be a challenging issue. Unlike proprietary software licenses, there is no central authority responsible for enforcing open source licenses. Instead, it is up to individual developers and companies to enforce the terms of the license through legal action or other means. This can be complicated by jurisdictional differences and varying interpretations of license terms by different parties.
 
 
-
+### Return to: [[S2 Intellectual Property Rights]]
 
 
   
