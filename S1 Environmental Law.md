@@ -4,7 +4,7 @@ share: true
 
 ## Course Title: Environmental Law
 
-*Course Description*: This course will provide students with an introduction to environmental law, including the rights and duties of various stakeholders, environmental planning, environmental impact assessment, the concept of strict liability and how environmental law is enforced.  
+<p align="justify">*Course Description*: This course will provide students with an introduction to environmental law, including the rights and duties of various stakeholders, environmental planning, environmental impact assessment, the concept of strict liability and how environmental law is enforced.  </p>
 
 ### Learning Resources [Click here](https://onedrive.live.com/?authkey=AIYLVMurEJNKhFU&id=E6AC21B49711E322%21266202&cid=E6AC21B49711E322)
 
