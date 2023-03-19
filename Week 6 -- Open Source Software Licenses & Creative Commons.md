@@ -33,7 +33,12 @@ This module will provide an introduction and overview of open source software li
    [Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode): This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses.
    
    [The Attribution-NonCommercial-NoDerivatives 4.0 (BY-NC-ND)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode) license is a type of Creative Commons license that allows others to share and use your work as long as they give you credit, do not use it for commercial purposes, and do not make any changes to it. This means that others can share your work online or in other formats, but they cannot sell it or make any profit from it without your permission. Additionally, they cannot modify or create derivative works based on your original work. This license is often used by artists and creators who want to protect their work while still allowing others to share and enjoy it. Finally, it is important to note that this license only applies to the original creator's work; any additional elements added by others are not covered by this license.
- 
+
+### Issues
+
+1. Compliance: One of the most important issues with open source software licenses is compliance. Developers and companies must ensure that they are following the terms and conditions of the license, which may include sharing modifications, providing attribution, or making their own code available under the same license. Failure to comply can result in legal action or loss of rights to use the software.
+2. Compatibility: Another key issue with open source software licenses is compatibility. There are many different open source licenses with varying terms and conditions, and it can be difficult to ensure that different licenses can be used together without conflict. This can be particularly challenging for companies that use multiple open source projects in their products or services.
+3. Enforcement: Finally, enforcement of open source software licenses can be a challenging issue. Unlike proprietary software licenses, there is no central authority responsible for enforcing open source licenses. Instead, it is up to individual developers and companies to enforce the terms of the license through legal action or other means. This can be complicated by jurisdictional differences and varying interpretations of license terms by different parties.
 
 
 

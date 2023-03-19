@@ -49,12 +49,8 @@ Upon completion of this course, students will be able to:
 - Compliance
 - Compatibility
 - Enforcement
+- Types and uses
 
-2. Compliance: One of the most important issues with open source software licenses is compliance. Developers and companies must ensure that they are following the terms and conditions of the license, which may include sharing modifications, providing attribution, or making their own code available under the same license. Failure to comply can result in legal action or loss of rights to use the software.
-
-3. Compatibility: Another key issue with open source software licenses is compatibility. There are many different open source licenses with varying terms and conditions, and it can be difficult to ensure that different licenses can be used together without conflict. This can be particularly challenging for companies that use multiple open source projects in their products or services.
-
-4. Enforcement: Finally, enforcement of open source software licenses can be a challenging issue. Unlike proprietary software licenses, there is no central authority responsible for enforcing open source licenses. Instead, it is up to individual developers and companies to enforce the terms of the license through legal action or other means. This can be complicated by jurisdictional differences and varying interpretations of license terms by different parties.
 
 ### Mid Semester Test
 
