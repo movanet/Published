@@ -58,13 +58,9 @@ We will watch one of these movies in class
 - Deepwater Horizon
 - Erin Brockovich (Julia Roberts)
 - A Civil Action (John Travolta)
-- The Cove
-- Gasland
 - An Inconvenient Truth (Al Gore)
 - Before the Flood (Leonardo DiCaprio)
-- Chasing Ice
-- Blackfish
-- The True Cost
+
 
 These movies provide powerful insights into the environmental injustices that take place worldwide. They shed light on issues such as pollution, climate change, animal cruelty, and exploitation of resources. Watching these movies can help us understand the negative impact of our actions on the environment and motivate us to take action to protect it.
 
