@@ -7,7 +7,7 @@ My name is Mova, I am a consutant, researcher and lecturer. My current research 
 
 Welcome to my site. This site is hosted on github and is published in netlify using obsidian-zola. I use this site for many purposes from lecturing to hosting my op-eds and articles. Recently, I've been enamored by generative AI. I will use this site to share tips on using some AI tools for legal and social research. 
 
-This site is billingual (English and Bahasa Indonesia). I will try to provide google translate link into english for Bahasa Indonesia pages. 
+This site is billingual (English and Bahasa Indonesia). I will try to provide google translate link into english for Bahasa Indonesia pages. I use generative AI (texts and images) to help me with content and coding for this site. 
 
 In the background is the picture of Mount Kilimanjaro that I took in my lodge near the [Amboseli National Park](https://en.wikipedia.org/wiki/Amboseli_National_Park) during my recent work trip to Kenya. 
 
