@@ -3,7 +3,7 @@ tags: #remark #welcome #Iswash #Conference #water
 share: true
 ---
 
-Good morning everyone! On behalf of the organizing committee, I would like to extend a warm welcome to IsWASH2023. We are thrilled to have you all here today to discuss the latest advancements in water, sanitation and hygiene in Indonesia. 
+Good morning everyone! On behalf of the organizing committee, I would like to extend a warm welcome to [IsWASH2023](https://crpg.info/wash/). We are thrilled to have you all here today to discuss the latest advancements in water, sanitation and hygiene in Indonesia. 
 
 To my knowledge, this is probably the first academic and multidisciplinary symposium ever to be organized in the WASH sector in Indonesia. The idea to organize this symposium was borne during Sanitation and Water for All (SWA) Mutual Accountability Mechanism catalytic research together with Jejaring AMPL in which our Research and Learning webinar was attended by more than 300 participants. The idea of IsWASH is that it should be *independent*, *free* and *inclusive*, both in terms of participation and publications. We hope that this will continue the same for the future.
 
@@ -18,3 +18,12 @@ Over the next day, we will have an opportunity to learn from each other and shar
 So once again, welcome everyone! Let's make this symposium an unforgettable online experience. 
 
 Thank you and have a great symposium! 
+
+
+#IsWASH2023 #WASH #Water #Sanitation #Indonesia #Symposium 
+
+
+
+Screenshot for #IsWASH2023 opening session.
+
+![[WhatsApp Image 2023-03-20 at 10.20.43.jpg]]
