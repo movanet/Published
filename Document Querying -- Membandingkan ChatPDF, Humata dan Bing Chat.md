@@ -19,6 +19,7 @@ Prompt: Can you provide examples of water conflicts cited by the paper?
 
 
 Answer: 
+
 >Yes, here are some examples of water conflicts cited in the paper: 1. Conflict over water quantity: The paper cites conflicts over water quantity in Northern Aceh, Indonesia, where farmers experienced conflict due to a lack of coordination in water distribution among farmers, inadequate water during drought season, lack of maintenance of irrigation infrastructure, or unilateral action from upstream farmers in lessening or preventing water flow downstream. 2. Conflict over water quality: The paper cites conflicts over water quality in Indonesia, where there is a conflict between rice farming and aquaculture, where brackish water seeps into paddy fields and damages rice plants. Another example is the decrease of water quality due to aquaculture/floating net cages (keramba jaring apung) in dams. 3. Conflict over spatial development with implications for water security: The paper cites conflicts over spatial development with implications for water security in Sidoarjo, Indonesia, where Islamic Boarding Schools resist an industrial project from a company to control several springs. Conflict also occurs between farmers themselves, for example, in Southern Sumatera conflict occurred between water for rice fields and inland fishery.
 
 
