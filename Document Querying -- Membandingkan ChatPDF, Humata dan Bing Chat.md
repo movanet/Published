@@ -6,7 +6,7 @@ share: true
 Tags: #AITools #research #noCode 
 
 
-Salah satu model #AITools yang banyak dipergunakan saat ini adalah "Document Querying". Pada intinya pengguna bisa mengupload dokumen (pdf atau lainnya) dan kemudian menggunakan AI sebagai alat bantu untuk memahami dokumen tersebut. Saya bukan ahli AI, tapi saya kira tools seperti Humata dan ChatPDF menggunakan teknik [Embedding](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings), dimana dokumen yang ada dipotong potong dan kemudian dianalisis keterkaitannya. 
+Salah satu model #AITools yang banyak dipergunakan sebagai alat bantu riset saat ini adalah "Document Querying". Pada intinya pengguna bisa mengupload dokumen (pdf atau lainnya) dan kemudian menggunakan AI sebagai alat bantu untuk memahami dokumen tersebut. Saya bukan ahli AI, tapi saya kira tools seperti Humata dan ChatPDF menggunakan teknik [Embedding](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings), dimana dokumen yang ada dipotong potong dan kemudian dianalisis keterkaitannya. 
 
 Saya akan membandingkan 3 #AITools yang sudah jadi -- alias #noCode --sehingga pengguna tidak perlu ribet coding. Ketiga #AITools tersebut adalah Humata, ChatPDF dan BingChat. Humata dan ChatPDF punya model freemium, artinya kalau ukuran PDFnya besar atau halamannya banyak (seperti UU Cipta Kerja), anda harus bayar. Sementara BingChat gratis, namun aksesnya masih terbatas (saya mendapat early access). 
 
