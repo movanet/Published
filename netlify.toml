@@ -2,11 +2,6 @@
   command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
   publish = "public"
   
-  [[headers]]
-  for = "/*"
-  [headers.values]
-    google-site-verification = "YeklFF_EoUYgiRXINkGoCymgQ0J11KvNjoFkpNH_1eE"
-
 [build.environment]
   # (Optional) Text in landing page button
   LANDING_BUTTON = "Click to steal some👆"
