@@ -123,6 +123,9 @@ Foto: Tipe tipe pelayanan air, diadaptasi dari Bakker ([AlAfghani](https://disco
 - Model regulasi (*regulation by contract, by independent agency, publicly regulated company*)
 - Segi empat regulasi:  (i) Tarif, (ii) Investasi, (iii) Lingkungan, (iv) Perluasan jaringan
 
+![[Pasted image 20230324113312.png]]
+(Gambar: AlAfghani, 2023)
+
 
 ## Kesulitan dalam mengkonseptualisasikan "swasta"
 
