@@ -17,8 +17,8 @@ Mohamad Mova AlAfghani, PhD
 
 ### Sumber Daya Air
 
-Sumber daya air:  air yang ada di alam, seperti sungai, danau, atau akuifer. 
-Tujuan regulasi SDA:  mengelola dan melindungi ketersediaan dan kualitas sumber daya air bagi berbagai kepentingan, seperti lingkungan, pertanian, industri, atau air minum. 
+Sumber daya air:  *air yang ada di alam, seperti sungai, danau, atau akuifer*. 
+Tujuan regulasi SDA:  *mengelola dan melindungi ketersediaan dan kualitas sumber daya air bagi berbagai kepentingan, seperti lingkungan, pertanian, industri, atau air minum*. 
 
 ![[Pasted image 20230323213529.png|300]]
 
@@ -40,8 +40,8 @@ Tujuan regulasi SDA:  mengelola dan melindungi ketersediaan dan kualitas sumber 
 
 ### Pelayanan Air
 
-Pelayanan air:  penyediaan air bersih dan sanitasi bagi masyarakat. 
-Tujuan regulasi: memastikan bahwa penyedia pelayanan air memberikan layanan yang efisien, aman, adil, dan berkelanjutan bagi pelanggan.
+Pelayanan air:  *penyediaan air bersih dan sanitasi bagi masyarakat*. 
+Tujuan regulasi: *memastikan bahwa penyedia pelayanan air memberikan layanan yang efisien, aman, adil, dan berkelanjutan bagi pelanggan*.
 
 ![[Pasted image 20230323215507.png]]
 (Foto: NeWater, Singapura)
@@ -56,23 +56,24 @@ Tujuan regulasi: memastikan bahwa penyedia pelayanan air memberikan layanan yang
 ##### Bauran air nasional (2019)
 
 ![[Pasted image 20230324083458.png]]
+(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 
 ##### Kapasitas produksi PDAM di Indonesia
 
 
 ![[Pasted image 20230324083649.png]]
-
+(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ##### Kemana tinja di Indonesia mengalir
 
 ![[Pasted image 20230324083830.png]]
-
+(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ##### Akses sanitasi di Indonesia
 
 ![[Pasted image 20230324083925.png]]
-
+(Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ###### Pencemaran sumur oleh tinja
 
