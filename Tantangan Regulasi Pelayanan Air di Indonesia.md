@@ -239,5 +239,9 @@ Contoh Jakarta ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsin
 > 
 > Dari diskusi di kelas diutarakan bahwa tuntutan konsumen air dengan merujuk pada UU Perlindungan Konsumen tidak cukup. Secara umum, konsumen air di Indonesia tidak punya jaminan hak untuk menuntut kegagalan pemenuhan standar pelayanan air -- karena standar dan hak nya tidak diatur detail. 
 
+3. Apakah memang UU Sumber Daya Air dan UU Pelayanan Air seharusnya memang dipisah?
+
+> Betul. Sebagaimana dicontohkan di beberapa negara diatas, UU nya dipisah walau saling berkaitan. Mengapa dipisah? Karena domain regulasinya berbeda. UU Pelayanan Air akan mengatur hak-hak pelanggan; hal ini tidak ada dalam UU Sumber Daya Air yang lebih mengatur mengenai sungai, danau dan sebagainya. 
+
 
 
