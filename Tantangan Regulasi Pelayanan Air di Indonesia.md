@@ -229,7 +229,7 @@ Contoh Jakarta ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsin
 
 1. Bagaimanakah regulasi yang ideal?
 
-	Sepertinya tidak ada regulasi yang ideal. Karena perubahan iklim, tujuan regulasi sebaiknya beralih dari penyediaan air dan sanitasi sesuai [target SDGs](https://www.un.org/sustainabledevelopment/water-and-sanitation/) menjadi resiliensi (kelentukan) sistem air minum dan sanitasi. Artinya, kita regulasi dan peraturan yang ada harus adaptif terhadap ancaman perubahan iklim. Misalnya, regulasi harus dapat mengantisipasi kemarau ekstrim pada bulan tertentu diikuti dengan curah hujan ekstrim pada bulan-bulan lainnya. Secara praktis, ini berarti regulasi harus menyediakan ruang ketika hak konsumen atas air tidak terpenuhi (terjadi kemarau panjar atau banjir) dan memberikan ruang diskresi yang cukup agar sistem air dan sanitasi dapat kembali beroperasi
+> Sepertinya tidak ada regulasi yang ideal. Karena perubahan iklim, tujuan regulasi sebaiknya beralih dari penyediaan air dan sanitasi sesuai [target SDGs](https://www.un.org/sustainabledevelopment/water-and-sanitation/) menjadi resiliensi (kelentukan) sistem air minum dan sanitasi. Artinya, kita regulasi dan peraturan yang ada harus adaptif terhadap ancaman perubahan iklim. Misalnya, regulasi harus dapat mengantisipasi kemarau ekstrim pada bulan tertentu diikuti dengan curah hujan ekstrim pada bulan-bulan lainnya. Secara praktis, ini berarti regulasi harus menyediakan ruang ketika hak konsumen atas air tidak terpenuhi (terjadi kemarau panjar atau banjir) dan memberikan ruang diskresi yang cukup agar sistem air dan sanitasi dapat kembali beroperasi
 
 2. Mengapa air dan sanitasi perlu regulasi, bukankah regulasi yang ada sudah cukup?
 
