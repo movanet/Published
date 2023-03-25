@@ -120,10 +120,10 @@ Foto: Tipe tipe pelayanan air, diadaptasi dari Bakker ([AlAfghani](https://disco
 
 ### Unsur-Unsur Regulasi Pelayanan Air
 - Model kepemilikan (swasta, konsesi, murni publik) 
-- Model regulasi (*regulation by contract, by independent agency, publicly regulated company*)
-- Segi empat regulasi:  (i) Tarif, (ii) Investasi, (iii) Lingkungan, (iv) Perluasan jaringan
+- Model regulasi (*regulation by contract, by independent agency, publicly regulated company*). Untuk perbedaannya, silahkan lihat  ([AlAfghani](https://discovery.dundee.ac.uk/ws/portalfiles/portal/28662139/Al_Afghani_Phd_Thesis_2012_Redacted.pdf), 2012)
+- Segi lima regulasi:  (i) Tarif, (ii) Investasi, (iii) Lingkungan, (iv) Perluasan jaringan dan (v) perubajan iklim. Pada "regulatory pentagon" ini terdapat *trade-off* karena keterbatasan sumberdaya yang dimiliki oleh perusahaan air. Misalnya, dana yang ada mau dipakai untuk meningkatkan kualitas air untuk dapat diminum atau untuk berinvestasi terhadap pelebaran jaringan?
 
-![[Pasted image 20230324113312.png]]
+![[Pasted image 20230325114914.png]]
 (Gambar: AlAfghani, 2023)
 
 
@@ -222,4 +222,18 @@ Contoh Jakarta ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsin
 - [WICS](https://wics.scot/what-we-do) (Scotland), "Cost Determination Procedure" ([Click disini](https://www.scottishwater.co.uk/-/media/ScottishWater/Document-Hub/Business-and-Developers/Connecting-to-our-network/All-connections-information/160621SWDeveloperGuideFinalweb.pdf))
 - [ESC](https://www.esc.vic.gov.au/water/water-prices-tariffs-and-special-drainage/water-price-reviews) (Victoria, Australia) "Water Price Review 2023" ([Click disini](https://www.esc.vic.gov.au/sites/default/files/documents/2023%20water%20price%20review%20guidance%20paper%20-%20August%202022%20amendment.pdf))
 - Untuk diskusi lebih detail mengenai fitur-fitur regulasi air, lihat  [AlAfghani](https://discovery.dundee.ac.uk/ws/portalfiles/portal/28662139/Al_Afghani_Phd_Thesis_2012_Redacted.pdf), 2012 dan [Hendry, 2014](https://www.cambridge.org/core/books/frameworks-for-water-law-reform/DAC1DB09EDEDE60026AC7E56F684D2CD) (paywall)
+
+
+
+### Beberapa pertanyaan yang diangkat dari diskusi di kelas (yang saya ingat)
+
+1. Bagaimanakah regulasi yang ideal?
+
+	Sepertinya tidak ada regulasi yang ideal. Karena perubahan iklim, tujuan regulasi sebaiknya beralih dari penyediaan air dan sanitasi sesuai [target SDGs](https://www.un.org/sustainabledevelopment/water-and-sanitation/) menjadi resiliensi (kelentukan) sistem air minum dan sanitasi. Artinya, kita regulasi dan peraturan yang ada harus adaptif terhadap ancaman perubahan iklim. Misalnya, regulasi harus dapat mengantisipasi kemarau ekstrim pada bulan tertentu diikuti dengan curah hujan ekstrim pada bulan-bulan lainnya. Secara praktis, ini berarti regulasi harus menyediakan ruang ketika hak konsumen atas air tidak terpenuhi (terjadi kemarau panjar atau banjir) dan memberikan ruang diskresi yang cukup agar sistem air dan sanitasi dapat kembali beroperasi
+
+2. Mengapa air dan sanitasi perlu regulasi, bukankah regulasi yang ada sudah cukup?
+
+> Secara teori, pelayanan air minum dan sanitasi bukanlah barang kompetitif. Artinya, kita tidak dapat memilih mau beli air dari penjual yang mana, karena di 1 kota hanya ada 1 PDAM dan sebagai konsekuensi, di 1 rumah hanya ada 1 keran. Ketika hanya ada 1 penjual sementara pembelinya 1 kota, maka pelayanan air menjadi monopoli. Kalau tidak diregulasi, si penjual bisa menetapkan harga jual seenaknya atau menentukan mau menjual ke siapa (misalnya, hanya mau menjual ke daerah elit karena pasti airnya akan dibayar ketimbang menjual ke daerah kumuh). Untuk pembahasan teori regulasi monopoli alamiah, silahkan lihat [Joskow](https://www.sciencedirect.com/science/article/abs/pii/S1574073007020166) atau [Posner](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2861&context=journal_articles).
+> 
+> Contoh lain dalam praktek adalah dalam regulasi air berbasis masyarakat/sistem komunal. Menurut [AlAfghani et al](https://www.water-alternatives.org/index.php/alldoc/articles/volume-12/v12issue1/490-a12-1-16/file) terdapat permasalahan institusional dalam sistem komunal: (i) tidak adanya badan hukum, (ii) kurangnya keamanan aset, (iii) sistem keuangan yang tidak berkalanjutan, dan (iv) kurangnya standar layanan. Kekurangan-kekurangan ini dapat memiliki implikasi tidak hanya dalam hal penggunaan infrastruktur jangka panjang, tetapi juga dalam mengimplementasikan hak asasi manusia atas air dalam sistem komunal. Artikel ini menjelaskan bahwa masalah-masalah tersebut salah satunya disebabkan oleh norma “pemberdayaan masyarakat” yang umum dianut. Alih-alih menyediakan dukungan pemerintah pasca-konstruksi, masyarakat “dibiarkan sendiri”.
 
