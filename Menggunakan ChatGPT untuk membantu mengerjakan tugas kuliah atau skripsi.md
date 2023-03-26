@@ -102,6 +102,7 @@ Namun, sebelum menggunakan ChatGPT dalam menyelesaikan tugas kuliah, terdapat be
 2.  Tidak Mampu Memahami Konteks: ChatGPT adalah model bahasa generatif yang tidak dapat memahami konteks atau pengetahuan sebelumnya yang dimiliki oleh pengguna. Hal ini dapat menyebabkan ChatGPT menghasilkan output yang tidak relevan atau tidak sesuai dengan kebutuhan pengguna.
 3.  Tidak Mampu Menilai Kualitas Referensi: Ketika digunakan dalam penelitian, ChatGPT mungkin menghasilkan output yang tidak sesuai dengan referensi yang telah ditentukan. Oleh karena itu, pengguna harus memastikan bahwa output
 
+**Perhatian!!!:** Untuk saat ini ChatGPT belum bisa menghasilkan penelusuran literatur dan mengutip sumbernya dengan akurat. Untuk melakukan penelurusuran literatur, gunakan [Perplexity](https://www.perplexity.ai/). 
 
 ## Permasalahan Etika Akademik
 
