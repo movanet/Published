@@ -102,7 +102,7 @@ Namun, sebelum menggunakan ChatGPT dalam menyelesaikan tugas kuliah, terdapat be
 2.  Tidak Mampu Memahami Konteks: ChatGPT adalah model bahasa generatif yang tidak dapat memahami konteks atau pengetahuan sebelumnya yang dimiliki oleh pengguna. Hal ini dapat menyebabkan ChatGPT menghasilkan output yang tidak relevan atau tidak sesuai dengan kebutuhan pengguna.
 3.  Tidak Mampu Menilai Kualitas Referensi: Ketika digunakan dalam penelitian, ChatGPT mungkin menghasilkan output yang tidak sesuai dengan referensi yang telah ditentukan. Oleh karena itu, pengguna harus memastikan bahwa output
 
-**Perhatian!!!:** Untuk saat ini ChatGPT belum bisa menghasilkan penelusuran literatur dan mengutip sumbernya dengan akurat. Untuk melakukan penelurusuran literatur, gunakan [Perplexity](https://www.perplexity.ai/). 
+**Perhatian!!!:** Untuk saat ini ChatGPT belum bisa menghasilkan [penelusuran literatur](https://owl.purdue.edu/owl/research_and_citation/conducting_research/writing_a_literature_review.html) dan mengutip sumbernya dengan akurat. Untuk melakukan penelurusuran literatur, gunakan [Perplexity](https://www.perplexity.ai/) 
 
 ## Permasalahan Etika Akademik
 
@@ -117,3 +117,14 @@ Ketiga, terlepas dari kecurangan akademik, tugas kuliah yang dibuat sepenuhnya o
 Namun, bukan berarti penggunaan ChatGPT sama sekali tidak etis dalam tugas kuliah. ChatGPT dapat digunakan sebagai alat bantu atau sumber referensi untuk membantu siswa dalam mengerjakan tugas mereka dengan lebih efisien dan efektif. Namun, siswa harus selalu mengevaluasi informasi yang diberikan oleh ChatGPT dan melakukan pengeditan dan revisi yang diperlukan untuk memastikan bahwa hasil akhir benar-benar merupakan karya mereka sendiri.
 
 Oleh karena itu, penggunaan ChatGPT dalam tugas kuliah harus dilakukan dengan hati-hati dan secara etis. Siswa harus menghindari menggunakan ChatGPT sebagai alat untuk membuat tugas kuliah sepenuhnya dan harus selalu mengevaluasi informasi yang diberikan oleh ChatGPT secara kritis. Dalam hal ini, ChatGPT dapat menjadi alat yang berguna untuk membantu siswa dalam belajar dan meningkatkan keterampilan mereka dalam menyelesaikan tugas-tugas akademik dengan lebih efisien dan efektif.
+
+#### Kebijakan AI Elsevier
+
+Kebijakan dari [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#Authors) dibawah ini dapat dijadikan patokan dalam **PENULISAN** (bukan pengumpulan data dan proses lainnya) skripsi atau tugas kuliah (diterjemahkan):
+
+> Ketika penulis menggunakan kecerdasan buatan (AI)  AI lainnya dalam penulisan, teknologi-teknologi tersebut seharusnya hanya digunakan untuk meningkatkan kemudahan membaca dan kualitas bahasa dari karya tulis. Penggunaan teknologi ini harus dilakukan dengan pengawasan dan kontrol manusia dan penulis sebaiknya secara teliti meninjau dan mengedit hasilnya, karena AI dapat menghasilkan keluaran yang terdengar akurat namun bisa jadi salah, tidak lengkap, atau bias. Penulis memiliki tanggung jawab akhir atas isi karya tersebut.
+> 
+> Penulis sebaiknya menyatakan penggunaan AI dan teknologi AI-assisted dalam naskah mereka dan pernyataan tersebut akan muncul dalam karya yang dipublikasikan. Pendeklarasian penggunaan teknologi ini mendukung transparansi dan kepercayaan antara penulis, pembaca, reviewer, editor, dan kontributor dan memfasilitasi kepatuhan terhadap syarat penggunaan alat atau teknologi terkait.
+> 
+> Penulis tidak boleh mencantumkan AI sebagai co-author, atau mengutip AI sebagai penulis. Karya tulis memerlukan tanggung jawab dan tugas-tugas yang hanya dapat diatribusikan dan dilakukan oleh manusia. Setiap *co-author* bertanggung jawab untuk memastikan bahwa setiap masalah yang berkaitan dengan akurasi atau integritas atas setiap bagian dari karya tulisnya diselesaikan secara tepat; setiap penulis harus menyetujui versi akhir dari karya dan setuju untuk mengirimkannya. Penulis juga bertanggung jawab untuk memastikan bahwa karya tersebut asli, bahwa penulis yang disebutkan memenuhi syarat untuk kepenulisan, dan karya tersebut tidak melanggar hak pihak ketiga, serta harus memperhatikan kebijakan Etika dalam Publikasi kami sebelum mengirimkannya (kepada jurnal kami).
+
