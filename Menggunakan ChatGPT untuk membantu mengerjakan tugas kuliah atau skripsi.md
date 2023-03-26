@@ -5,7 +5,7 @@ share: true
 Tags: #ChatGPT #Academic #Student #Assignment #Paper #Ethics #AITools 
 
 
-Perhatian: ***Teks ini dibuat oleh ChatGPT dengan menggunakan beberapa prompt dan dengan penyuntingan minimal***
+Perhatian: ***Teks ini dibuat oleh ChatGPT dengan menggunakan beberapa prompt dengan penyuntingan ***
 
 
 ![[96492e8e-be03-4f67-bf73-2ddc13ccc649.png|650]]
