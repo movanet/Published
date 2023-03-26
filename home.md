@@ -3,7 +3,7 @@ share: true
 ---
 
 
-My name is Mova, I am a consutant, researcher and lecturer. My current research interest is Environmental and Human Rights Due Diligence (EHRDD), water tenure and chemical regulation. 
+My name is Mova (Mohamad Mova Al'Afghani), I am a consutant, researcher and lecturer. My current research interest is Environmental and Human Rights Due Diligence (EHRDD), water tenure and chemical regulation. 
 
 Welcome to my site. This site is hosted on github and is published in netlify using obsidian-zola. I use this site for many purposes from lecturing to hosting my op-eds and articles. Recently, I've been enamored by generative AI. I will use this site to share tips on using some AI tools for legal and social research. 
 
