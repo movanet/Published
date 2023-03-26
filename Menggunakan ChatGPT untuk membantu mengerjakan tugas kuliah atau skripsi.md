@@ -122,7 +122,7 @@ Oleh karena itu, penggunaan ChatGPT dalam tugas kuliah harus dilakukan dengan ha
 
 Kebijakan dari [Elsevier](https://www.elsevier.com/about/policies/publishing-ethics#Authors) dibawah ini dapat dijadikan patokan dalam **PENULISAN** (bukan pengumpulan data dan proses lainnya) skripsi atau tugas kuliah (diterjemahkan):
 
-> Ketika penulis menggunakan kecerdasan buatan (AI)  AI lainnya dalam penulisan, teknologi-teknologi tersebut seharusnya hanya digunakan untuk meningkatkan kemudahan membaca dan kualitas bahasa dari karya tulis. Penggunaan teknologi ini harus dilakukan dengan pengawasan dan kontrol manusia dan penulis sebaiknya secara teliti meninjau dan mengedit hasilnya, karena AI dapat menghasilkan keluaran yang terdengar akurat namun bisa jadi salah, tidak lengkap, atau bias. Penulis memiliki tanggung jawab akhir atas isi karya tersebut.
+> Ketika penulis menggunakan kecerdasan buatan (AI)  dalam penulisan, teknologi-teknologi tersebut seharusnya hanya digunakan untuk meningkatkan kemudahan membaca dan kualitas bahasa dari karya tulis. Penggunaan teknologi ini harus dilakukan dengan pengawasan dan kontrol manusia dan penulis sebaiknya secara teliti meninjau dan mengedit hasilnya, karena AI dapat menghasilkan keluaran yang terdengar akurat namun bisa jadi salah, tidak lengkap, atau bias. Penulis memiliki tanggung jawab akhir atas isi karya tersebut.
 > 
 > Penulis sebaiknya menyatakan penggunaan AI dan teknologi AI-assisted dalam naskah mereka dan pernyataan tersebut akan muncul dalam karya yang dipublikasikan. Pendeklarasian penggunaan teknologi ini mendukung transparansi dan kepercayaan antara penulis, pembaca, reviewer, editor, dan kontributor dan memfasilitasi kepatuhan terhadap syarat penggunaan alat atau teknologi terkait.
 > 
