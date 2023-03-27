@@ -128,3 +128,5 @@ Kebijakan dari [Elsevier](https://www.elsevier.com/about/policies/publishing-eth
 > 
 > Penulis tidak boleh mencantumkan AI sebagai co-author, atau mengutip AI sebagai penulis. Karya tulis memerlukan tanggung jawab dan tugas-tugas yang hanya dapat diatribusikan dan dilakukan oleh manusia. Setiap *co-author* bertanggung jawab untuk memastikan bahwa setiap masalah yang berkaitan dengan akurasi atau integritas atas setiap bagian dari karya tulisnya diselesaikan secara tepat; setiap penulis harus menyetujui versi akhir dari karya dan setuju untuk mengirimkannya. Penulis juga bertanggung jawab untuk memastikan bahwa karya tersebut asli, bahwa penulis yang disebutkan memenuhi syarat untuk kepenulisan, dan karya tersebut tidak melanggar hak pihak ketiga, serta harus memperhatikan kebijakan Etika dalam Publikasi kami sebelum mengirimkannya (kepada jurnal kami).
 
+Terkait:
+1. [[Bukan Open Book melainkan Open-AI -- Model Ujian Mahasiswa Pasca ChatGPT]]
