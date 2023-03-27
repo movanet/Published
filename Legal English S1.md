@@ -156,7 +156,7 @@ Positive covenants are obligations that require a party to take specific actions
 This section outlines the promises and guarantees made by each party regarding their ability to perform their obligations under the contract.
    
 ### Intellectual Property 
-This section outlines the ownership and use of any intellectual property created or used under the contract. See [[S2 Intellectual Property Rights Syllabus]]
+This section outlines the ownership and use of any intellectual property created or used under the contract. See [[S2 Intellectual Property Rights]]
 
 ### Confidentiality and Non-Disclosure 
 This section outlines the obligations of the parties to maintain the confidentiality of any confidential information exchanged under the contract.
