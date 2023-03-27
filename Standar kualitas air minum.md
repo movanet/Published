@@ -12,3 +12,8 @@ BAB II dalam Peraturan Menteri Kesehatan Nomor 2 Tahun 2023 membahas tentang med
 ![[Pasted image 20230326205824.png]]
 
 ![[Pasted image 20230326205653.png]]
+
+
+## Halaman Terkait 
+###### [[Tantangan Regulasi Pelayanan Air di Indonesia]]
+###### [[Perbedaan Fitur Regulasi Sumber Daya Air dengan Pelayanan Air]]

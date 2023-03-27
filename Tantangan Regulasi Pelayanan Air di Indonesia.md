@@ -20,21 +20,21 @@ Mohamad Mova AlAfghani, PhD
 Sumber daya air:  *air yang ada di alam, seperti sungai, danau, atau akuifer*. 
 Tujuan regulasi SDA:  *mengelola dan melindungi ketersediaan dan kualitas sumber daya air bagi berbagai kepentingan, seperti lingkungan, pertanian, industri, atau air minum*. 
 
-![[Pasted image 20230323213529.png|300]]
+![[Pasted image 20230323213529 1.png|300]]
 
 
 ### Kondisi Sumber Daya Air Indonesia
 
 
-![[Pasted image 20230323225921.png|400]]
+![[Pasted image 20230323225921 1.png|400]]
 
 (Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
-![[Pasted image 20230324002016.png]]
+![[Pasted image 20230324002016 1.png]]
 
 (Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
-![[Pasted image 20230324002113.png]]
+![[Pasted image 20230324002113 1.png]]
 
 (Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
@@ -43,11 +43,11 @@ Tujuan regulasi SDA:  *mengelola dan melindungi ketersediaan dan kualitas sumber
 Pelayanan air:  *penyediaan air bersih dan sanitasi bagi masyarakat*. 
 Tujuan regulasi: *memastikan bahwa penyedia pelayanan air memberikan layanan yang efisien, aman, adil, dan berkelanjutan bagi pelanggan*.
 
-![[Pasted image 20230323215507.png]]
+![[Pasted image 20230323215507 1.png]]
 (Foto: NeWater, Singapura)
 
 
-![[Pasted image 20230323230438.png|500]]
+![[Pasted image 20230323230438 1.png|500]]
 (Foto: IPA Mookervaart, PAM Jaya)
 
 
@@ -55,31 +55,31 @@ Tujuan regulasi: *memastikan bahwa penyedia pelayanan air memberikan layanan yan
 
 ##### Bauran air nasional (2019)
 
-![[Pasted image 20230324083458.png]]
+![[Pasted image 20230324083458 1.png]]
 (Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 
 ##### Kapasitas produksi PDAM di Indonesia
 
 
-![[Pasted image 20230324083649.png]]
+![[Pasted image 20230324083649 1.png]]
 (Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ##### Kemana tinja di Indonesia mengalir
 
-![[Pasted image 20230324083830.png]]
+![[Pasted image 20230324083830 1.png]]
 (Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ##### Akses sanitasi di Indonesia
 
-![[Pasted image 20230324083925.png]]
+![[Pasted image 20230324083925 1.png]]
 (Sumber: [WB Policy Note, 2021](https://openknowledge.worldbank.org/server/api/core/bitstreams/34aed8d2-4d15-53af-ba62-0e693697c268/content))
 
 ###### Pencemaran sumur oleh tinja
 
 [Berita Detik.com](https://news.detik.com/berita/d-5939305/unicef-70-sumber-air-minum-rumah-tangga-di-indonesia-tercemar-limbah-tinja)
 
-![[Pasted image 20230324084352.png]]
+![[Pasted image 20230324084352 1.png]]
 
 [Menurut UNICEF](https://www.unicef.org/indonesia/id/press-releases/indonesia-hampir-70-persen-sumber-air-minum-rumah-tangga-tercemar-limbah-tinja) berdasarkan SKAMRT:
 
@@ -93,7 +93,7 @@ Tujuan regulasi: *memastikan bahwa penyedia pelayanan air memberikan layanan yan
 
 ### Jenis-Jenis Pelayanan Air di Indonesia
 
-![[Pasted image 20230323231525.png]]
+![[Pasted image 20230323231525 1.png]]
 
 Foto: Tipe tipe pelayanan air, diadaptasi dari Bakker ([AlAfghani](https://discovery.dundee.ac.uk/ws/portalfiles/portal/28662139/Al_Afghani_Phd_Thesis_2012_Redacted.pdf), 2012)
 
@@ -101,7 +101,9 @@ Foto: Tipe tipe pelayanan air, diadaptasi dari Bakker ([AlAfghani](https://disco
 	- PDAM
 	- Masyarakat (Komunal)
 
-![[Pasted image 20230323230631.png|500]]
+Apa yang dimaksud dengan [[Air Minum]]?
+
+![[Pasted image 20230323230631 1.png|500]]
 
 (Foto: Instalasi Pamsimas 3 di Desa Sutoragan, Purwerojo, Kompas)
 
@@ -112,10 +114,10 @@ Foto: Tipe tipe pelayanan air, diadaptasi dari Bakker ([AlAfghani](https://disco
 	- Terpusat
 	- Komunal
 
-![[Pasted image 20230323230908.png|500]]
+![[Pasted image 20230323230908 1.png|500]]
 (Foto: instalasi Sanimas IsDB, Lentera 24)
 
-![[Pasted image 20230323231130.png|500]]
+![[Pasted image 20230323231130 1.png|500]]
 (Foto: IPAL Komunal, MimozaTV)
 
 ### Unsur-Unsur Regulasi Pelayanan Air
@@ -131,24 +133,24 @@ Foto: Tipe tipe pelayanan air, diadaptasi dari Bakker ([AlAfghani](https://disco
 
 #### Swasta sebagai spektrum
 
-![[Pasted image 20230323235847.png]]
+![[Pasted image 20230323235847 1.png]]
 
 (Source: World Bank 2005, dari [AlAfghani](https://discovery.dundee.ac.uk/ws/portalfiles/portal/28662139/Al_Afghani_Phd_Thesis_2012_Redacted.pdf), 2012 p.38 )
 
 #### Siapakah yang dimaksud dengan "swasta"?
 
-![[Pasted image 20230324000843.png]]
+![[Pasted image 20230324000843 1.png]]
 (Sumber: [AlAfghani dan Bisariyadi](https://deliverypdf.ssrn.com/delivery.php?ID=344118088088082072104016004002102065020088069085027026127090028120104104117116100073029114036013107061038027004001015073104120024069091048041112091119087011022010053019055067078089101093094000095122009102083112118105101125075069083067112022007094098&EXT=pdf&INDEX=TRUE), 2021)
 Lihat juga, [kertas posisi CRPG](https://cloud.crpg.info/docs/KK_02_2018.pdf), 2019
 
 #### Beberapa "celah" pelibatan swasta
 
-![[Pasted image 20230324000627.png]]
+![[Pasted image 20230324000627 1.png]]
 (Sumber: [AlAfghani dan Bisariyadi](https://deliverypdf.ssrn.com/delivery.php?ID=344118088088082072104016004002102065020088069085027026127090028120104104117116100073029114036013107061038027004001015073104120024069091048041112091119087011022010053019055067078089101093094000095122009102083112118105101125075069083067112022007094098&EXT=pdf&INDEX=TRUE), 2021)
 
 Lihat Juga "Anti-Privatisation Debates, Opaque Rules and ‘Privatised’ Water Services Provision: Some Lessons from Indonesia" [AlAfghani, 2012](https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/7480/IDSB_43_2_10.1111-j.1759-5436.2012.00303.x.pdf?sequence=1)
 
-![[Pasted image 20230324000713.png]]
+![[Pasted image 20230324000713 1.png]]
 (Sumber: [AlAfghani dan Bisariyadi](https://deliverypdf.ssrn.com/delivery.php?ID=344118088088082072104016004002102065020088069085027026127090028120104104117116100073029114036013107061038027004001015073104120024069091048041112091119087011022010053019055067078089101093094000095122009102083112118105101125075069083067112022007094098&EXT=pdf&INDEX=TRUE), 2021)
 
 
@@ -156,7 +158,7 @@ Lihat Juga "Anti-Privatisation Debates, Opaque Rules and ‘Privatised’ Water 
 
 ### Indonesia tidak punya UU Pelayanan Air
 
-- Regulasi pelayanan air memiliki fitur yang berbeda dengan regulasi sumber daya air (Lihat [[Perbedaan Fitur Regulasi Sumber Daya Air dengan Pelayanan Air]])
+- Regulasi pelayanan air memiliki fitur yang berbeda dengan regulasi sumber daya air. Lihat [[Perbedaan Fitur Regulasi Sumber Daya Air dengan Pelayanan Air]]
 - Hanya ada beberapa pasal pelayanan air dalam UU 17/2019
 - Pelayanan sanitasi tidak disebut dalam UU 17/2019 (lihat [masukan kepada DPR](https://cloud.crpg.info/docs/KertasPosisiRUUSDA.pdf) dalam pembuatan UU SDA)
 - UU 7/2004 juga l[ebih banyak mengatur](https://www.thejakartapost.com/news/2009/08/31/indonesia-needs-a-strong-water-services-law.html) sumber daya air
@@ -186,18 +188,18 @@ Lihat Juga "Anti-Privatisation Debates, Opaque Rules and ‘Privatised’ Water 
 
 Contoh Jakarta ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsing.pdf))
 
-![[Pasted image 20230324082050.png]]
+![[Pasted image 20230324082050 1.png]]
 
 ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsing.pdf))
 
-![[Pasted image 20230324082116.png]]
+![[Pasted image 20230324082116 1.png]]
 ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsing.pdf))
 
 
-![[Pasted image 20230324082154.png]]
+![[Pasted image 20230324082154 1.png]]
 ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsing.pdf))
 
-![[Pasted image 20230324081930.png]]
+![[Pasted image 20230324081930 1.png]]
 (AlAfghani dan Putri, IsWASH 2023)
 
 

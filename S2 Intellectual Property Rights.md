@@ -44,7 +44,7 @@ Upon completion of this course, students will be able to:
 - Trade Secret Protection Strategies 
 - Trade Secret Misappropriation 
 
-#### [[Week 6 -- Open Source Software Licenses & Creative Commons]]
+#### [[Week 6 -- Open Source Software Licenses & Creative Commons 1]]
 
 - Compliance
 - Compatibility
