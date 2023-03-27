@@ -130,3 +130,4 @@ Kebijakan dari [Elsevier](https://www.elsevier.com/about/policies/publishing-eth
 
 Terkait:
 1. [[Bukan Open Book melainkan Open-AI -- Model Ujian Mahasiswa Pasca ChatGPT]]
+2. [[Panduan Lengkap Menggunakan ChatGPT dengan Prompts, Priming, dan Persona]]
