@@ -5,7 +5,7 @@ share: true
 Tags: #ChatGPT #Academic #Student #Assignment #Paper #Ethics #AITools 
 
 
-Perhatian: ***Teks ini dibuat oleh ChatGPT dengan menggunakan beberapa prompt dengan penyuntingan ***
+Perhatian: Teks ini dibuat oleh ChatGPT dengan menggunakan beberapa prompt dengan penyuntingan 
 
 
 ![[96492e8e-be03-4f67-bf73-2ddc13ccc649.png|650]]
@@ -93,16 +93,18 @@ Berikut adalah contoh prompt yang bisa digunakan oleh mahasiswa untuk brainstorm
 
 
 
-## Keterbatasan ChatGPT
+## Keterbatasan ChatGPT (GPT-3)
 
 
 Namun, sebelum menggunakan ChatGPT dalam menyelesaikan tugas kuliah, terdapat beberapa keterbatasan yang harus dipertimbangkan oleh para pengguna:
 
 1.  Terbatas pada Data Pelatihan: ChatGPT membutuhkan banyak data untuk dilatih dan menghasilkan output yang berkualitas tinggi. Oleh karena itu, output yang dihasilkan oleh ChatGPT mungkin tidak selalu akurat atau sesuai dengan kebutuhan pengguna karena keterbatasan dalam data yang digunakan dalam pelatihan.    
 2.  Tidak Mampu Memahami Konteks: ChatGPT adalah model bahasa generatif yang tidak dapat memahami konteks atau pengetahuan sebelumnya yang dimiliki oleh pengguna. Hal ini dapat menyebabkan ChatGPT menghasilkan output yang tidak relevan atau tidak sesuai dengan kebutuhan pengguna.
-3.  Tidak Mampu Menilai Kualitas Referensi: Ketika digunakan dalam penelitian, ChatGPT mungkin menghasilkan output yang tidak sesuai dengan referensi yang telah ditentukan. Oleh karena itu, pengguna harus memastikan bahwa output
+3.  Tidak Mampu Menilai Kualitas Referensi: Ketika digunakan dalam penelitian, ChatGPT mungkin menghasilkan output yang tidak sesuai dengan referensi yang telah ditentukan. Oleh karena itu, pengguna harus memastikan bahwa output yang dihasilkan sesuai.
+4. Tidak bisa mengutip pasal dan peraturan secara akurat.
 
 **Perhatian!!!:** Untuk saat ini ChatGPT belum bisa menghasilkan [penelusuran literatur](https://owl.purdue.edu/owl/research_and_citation/conducting_research/writing_a_literature_review.html) dan mengutip sumbernya dengan akurat. Untuk melakukan penelurusuran literatur, gunakan [Perplexity](https://www.perplexity.ai/) 
+Catatan: [GPT-4 mungkin lebih canggih](https://openai.com/product/gpt-4), sayangnya saya belum punya akses.
 
 ## Permasalahan Etika Akademik
 
