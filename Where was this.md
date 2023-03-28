@@ -8,3 +8,5 @@ share: true
 
 
 ![[Pasted image 20230329061137.png]]
+
+![[apicforbing.png]]
