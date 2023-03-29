@@ -93,6 +93,8 @@ Berikut adalah contoh prompt yang bisa digunakan oleh mahasiswa untuk brainstorm
 
 ## Prompt Engineering Lanjutan
 
+Beberapa prompt dasar yang dapat dipergunakan untuk penelitian hukum [dapat diakses disini](https://www.learnprompt.org/chat-gpt-prompts-for-lawyers/).
+
 Untuk belajar prompting lebih lanjut, [silahkan lihat repository ini](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-basic-usage.md)
 
 
