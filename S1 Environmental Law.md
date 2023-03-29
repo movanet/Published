@@ -30,7 +30,7 @@ share: true
 - Mitigation and Adaptation Strategies
 - Paris Agreement and other International Climate Change Agreements
 
-### Week 3: Environmental Planning 
+### Week 3: [[Environmental Planning]] 
 
 - Planning Sequence in Indonesia
 - Land Use Planning and Zoning Regulations
