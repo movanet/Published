@@ -2,11 +2,11 @@
 share: true
 ---
 
-# Part 1: Contract Drafting
+# Part 1-- Contract Drafting
 
-Description: This course will cover the fundamental principles and techniques of drafting effective contracts. Students will learn how to analyze contract provisions, identify risks and benefits, and negotiate contract terms. The course will also provide practical guidance on drafting contracts in a clear and concise manner.
+Description-- This course will cover the fundamental principles and techniques of drafting effective contracts. Students will learn how to analyze contract provisions, identify risks and benefits, and negotiate contract terms. The course will also provide practical guidance on drafting contracts in a clear and concise manner.
 
-Course Outline:
+Course Outline
 
 ## I. Introduction to Contract Drafting
 
@@ -41,11 +41,11 @@ Course Outline:
 -   Alternative dispute resolution mechanisms
 
 
-# Part 2: Legal Opinion Writing
+# Part 2-- Legal Opinion Writing
 
-Description: This course will cover the fundamental principles and techniques of writing effective legal opinions. Students will learn how to conduct legal research, analyze legal issues, and communicate complex legal concepts in a clear and concise manner.
+Description-- This course will cover the fundamental principles and techniques of writing effective legal opinions. Students will learn how to conduct legal research, analyze legal issues, and communicate complex legal concepts in a clear and concise manner.
 
-Course Outline:
+Course Outline
 
 ## I. Introduction to Legal Opinion Writing
 
@@ -78,7 +78,7 @@ Course Outline:
 -   Editing and revising legal opinions
 
 
-## Part 3: Method of Instruction
+# Part 3-- Method of Instruction
 
 -   Lecture
 -   Discussion and debate
@@ -88,7 +88,7 @@ Course Outline:
 -   Contract Drafting Exercise
 -   Contract Negotiation Exercise
 
-## Part 4: Common Structure of a Legal Opinion
+# Part 4-- Common Structure of a Legal Opinion
 
 ### 1.  Introduction
 
@@ -129,7 +129,7 @@ Course Outline:
 -   Provides the name, title, and contact information of the author of the legal opinion
 -   May include the date of the opinion and any other relevant information
 
-## Part 5: Common Structure of a Contract
+# Part 6-- Common Structure of a Contract
 
 ### Parties 
 This section identifies the parties entering into the agreement and may include a brief background or summary of the purpose of the contract.
@@ -190,3 +190,16 @@ This section confirms that the contract represents the entire agreement between 
    
 ### Signatures 
 This section includes the signature blocks for each party, indicating their agreement to the terms of the contract.
+
+
+# Part 7 -- Assignments
+
+There are two assignments for this class:
+
+- [[Drafting a Public Private Partnership Contract]]
+- Drafting Legal Opinion
+
+You are encouraged to use [ChatGPT ](https://chat.openai.com/chat)for this assignment. 
+
+Related:
+1. [[Menggunakan ChatGPT untuk membantu mengerjakan tugas kuliah atau skripsi]]
