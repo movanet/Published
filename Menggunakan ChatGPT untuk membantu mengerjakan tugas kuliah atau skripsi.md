@@ -91,6 +91,9 @@ Berikut adalah contoh prompt yang bisa digunakan oleh mahasiswa untuk brainstorm
 
 "Mohon bantu saya dalam menemukan ide-ide tema skripsi yang relevan dengan topik hukum lingkungan. Saya tertarik untuk membahas tentang kebijakan lingkungan yang berkelanjutan dan perlindungan lingkungan dari sudut pandang hukum. Bisa berikan saya saran dan ide-ide tentang topik skripsi yang bisa dibahas?"
 
+## Prompt Engineering Lanjutan
+
+Untuk belajar prompting lebih lanjut, [silahkan lihat repository ini](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/guides/prompts-basic-usage.md)
 
 
 ## Keterbatasan ChatGPT (GPT-3)
