@@ -34,9 +34,9 @@
   # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
   PAGE_GRAPH = "y"
   # (Optional, default false) Whether sidebar sections should be collapsed by default.
-  SIDEBAR_COLLAPSED = ""
+  SIDEBAR_COLLAPSED = "y"
   # (Optional, default blank) Additional footer content.
-  FOOTER = ""
+  FOOTER = "(c) Mohamad Mova AlAfghani, 2023"
   # (Optional, default main) Root section name.
   ROOT_SECTION_NAME = "main"
   # (Optional) visjs graph options. Can remove if desired.
