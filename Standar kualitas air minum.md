@@ -14,6 +14,9 @@ BAB II dalam Peraturan Menteri Kesehatan Nomor 2 Tahun 2023 membahas tentang med
 ![[Pasted image 20230326205653.png]]
 
 
+Catatan:
+RUU Kesehatan saat ini (03/21/2023) sedang dalam proses pembahasan. Berikut [[Masukan saya untuk RUU Kesehatan]]  yang berkaitan dengan air dan sanitasi.
+
 ## Halaman Terkait 
 ###### [[Tantangan Regulasi Pelayanan Air di Indonesia]]
 ###### [[Perbedaan Fitur Regulasi Sumber Daya Air dengan Pelayanan Air]]
