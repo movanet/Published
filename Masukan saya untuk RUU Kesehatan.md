@@ -13,3 +13,5 @@ Terima kasih banyak atas kesempatan partisipasi yang diberikan. Berikut beberapa
 3. Untuk obyek pengaturan (slides nomor 10) saya usul agar bisa lebih abstrak, sehingga tidak terbatas kepada "permukiman, tempat kerja, tempat rekreasi, serta tempat dan fasilitas umum." Bisa juga dengan memasukkan frasa "antara lain". Hal ini untuk mengantisipasi adanya lokasi/tempat yang belum masuk dalam definisi pemukiman, TFU dan sebagainya.  
 
 (Mohamad Mova AlAfghani, CRPG)
+
+Catatan: Perwakilan dari Bappenas mengutarakan dalam pertemuan bahwa "penyehatan, pengamanan dan pengendalian" sebaiknya dibuat lebih abstrak dan dengan berbasis risiko -- dimana keseluruhan tahapan dari mulai penyehatan sampai pengendalian sudah terpenuhi. Saya setuju sekali, terutama dengan krisis iklim ini, perlu ada prioritisasi, karena sumber daya yang ada akan lebih terbatas lagi. 
