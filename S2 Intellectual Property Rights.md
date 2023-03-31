@@ -59,6 +59,7 @@ Upon completion of this course, students will be able to:
 - International Treaties on IP Protection 
 - Enforcement Mechanisms in Different Jurisdictions 
 - Comparative Analysis of IP Laws Across Jurisdictions 
+- US Copyright Office on AI -- in Bahasa Indonesia ([[HAKI dan Artificial Intelligence]])
 
 #### Week 8 -- IPR Case Analysis 
 - Group formation
