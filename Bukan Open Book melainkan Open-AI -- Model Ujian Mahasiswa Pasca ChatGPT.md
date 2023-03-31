@@ -1,7 +1,7 @@
-
 ---
 share: true
 ---
+
 
 Dengan adanya ChatGPT, apakah seluruh ujian harus *open book* dan diperbolehkan menggunakan AI? 
 
