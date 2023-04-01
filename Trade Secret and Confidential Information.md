@@ -19,7 +19,7 @@ Note: this mindmap is AI-generated
 
 ## Trade Secret -- Definition
 
-[A trade secret is information that is not generally known to the public; confers economic benefit on its holder because the information is not publicly known; and where the holder makes reasonable efforts to maintain its secrecy](https://en.wikipedia.org/wiki/Trade_secret)[1](https://en.wikipedia.org/wiki/Trade_secret). [Trade secrets are a type of intellectual property that includes formulas, practices, processes, designs, instruments, patterns, or compilations of information that have inherent economic value because they are not generally known or readily ascertainable by others, and which the owner takes reasonable measures to keep secret](https://en.wikipedia.org/wiki/Trade_secret)[1](https://en.wikipedia.org/wiki/Trade_secret)[2](https://www.law.cornell.edu/wex/trade_secret).
+A trade secret is information that is not generally known to the public; confers economic benefit on its holder because the information is not publicly known; and where the holder makes reasonable efforts to maintain its secrecy [See wiki] (https://en.wikipedia.org/wiki/Trade_secret)(https://en.wikipedia.org/wiki/Trade_secret). Trade secrets are a type of intellectual property that includes formulas, practices, processes, designs, instruments, patterns, or compilations of information that have inherent economic value because they are not generally known or readily ascertainable by others, and which the owner takes reasonable measures to keep secret [see wiki] (https://en.wikipedia.org/wiki/Trade_secret) [See Cornell](https://www.law.cornell.edu/wex/trade_secret).
 
 More information:
 
