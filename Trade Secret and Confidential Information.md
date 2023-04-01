@@ -66,9 +66,9 @@ More information:
 ## TRIPS and Trade Secret in Indonesia
 
 
-[According to an article by](https://ojs.uph.edu/index.php/Anthology/article/view/6700) [1](https://ojs.uph.edu/index.php/Anthology/article/view/6700), Indonesia has ratified the Agreement on Trade-Related Aspects of Intellectual Property Rights and passed the Trade Secrets Law No. 30 of 2000. The law protects every citizen’s rights whether they were acquired as a result of a transfer or arose as a consequence of their own creation.
+[According to a paper by Rahmatya et.al](https://ojs.uph.edu/index.php/Anthology/article/view/6700) , Indonesia has ratified the Agreement on Trade-Related Aspects of Intellectual Property Rights and passed the Trade Secrets Law No. 30 of 2000. The law protects every citizen’s rights whether they were acquired as a result of a transfer or arose as a consequence of their own creation.
 
-The protection of trade secrets in Indonesia is regulated under Law No. 30 Year 2000 on Trade Secret (“Trade Secret Law”). By definition, a trade secret is information that is unknown to the public in the field of technology and/or business. [The information should also possess economic value due to its use in trade, and the secrecy should be kept by the owner](https://affa.co.id/global/2020/02/08/trade-secret-scope-protection-indonesia/) [2](https://affa.co.id/global/2020/02/08/trade-secret-scope-protection-indonesia/).
+The protection of trade secrets in Indonesia is regulated under Law No. 30 Year 2000 on Trade Secret (“Trade Secret Law”). By definition, a trade secret is information that is unknown to the public in the field of technology and/or business. [The information should also possess economic value due to its use in trade, and the secrecy should be kept by the owner](https://affa.co.id/global/2020/02/08/trade-secret-scope-protection-indonesia/) 
 
 
 ## KPPU Draft Guideline on Trade Secret
