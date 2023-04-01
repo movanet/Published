@@ -24,32 +24,30 @@ Upon completion of this course, students will be able to:
 - The Purpose of Intellectual Property Law
 - The Role of Intellectual Property in Business
 
-#### Week 2 -- Patents 
-- Patentability Criteria
-- Patent Prosecution Process
-- Patent Infringement
+#### Week 2 -- Trade Secrets and Confidential Information
+1. Definition of Trade Secrets and Confidential Information
+2. Protection of Trade Secrets and Confidential Information
+3. Abuse of Trade Secret and Confidential Information
 
-#### Week 3 -- Trademarks
-- Distinctiveness Requirements
-- Trademark Registration Process
-- Trademark Infringement
+#### Week 3 -- IPR and Competition Law
+- Background on Competition Law
+- IPR as Dominance
+- Essential Facilities
 
-#### Week 4 -- Copyrights 
-- Originality Requirements 
-- Copyright Registration Process 
-- Copyright Infringement 
+#### Week 4 -- Intellectual Property Rights and Freedom of Information
+- Introduction to FoI
+- IPR as exclusion to FoI
+- Application of Harm and Public Interest Tests
 
-#### Week 5 -- Trade Secrets 
-- Elements of a Trade Secret 
-- Trade Secret Protection Strategies 
-- Trade Secret Misappropriation 
+#### Week 5 -- Blockchain and Intellectual Property Rights
+- Introduction to Blockchain 
+- Using Blockchain to protect IPR 
+- Abuse potential
 
-#### [[Week 6 -- Open Source Software Licenses & Creative Commons 1]]
-
-- Compliance
-- Compatibility
-- Enforcement
-- Types and uses
+#### Week 6 -- IPR and Genetics
+- Legal protection of genetic codes
+- IPR in Synthetic Biology 
+- CRISPR and Open Source Genetics 
 
 
 ### Mid Semester Test
@@ -86,6 +84,17 @@ Upon completion of this course, students will be able to:
 
 
 ### Final Exam
+
+
+Additional:
+
+#### [[Open Source Software Licenses & Creative Commons 1]]
+
+- Compliance
+- Compatibility
+- Enforcement
+- Types and uses
+
 
 
 ### Sources
