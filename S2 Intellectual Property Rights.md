@@ -24,7 +24,7 @@ Upon completion of this course, students will be able to:
 - The Purpose of Intellectual Property Law
 - The Role of Intellectual Property in Business
 
-#### Week 2 -- Trade Secrets and Confidential Information
+#### Week 2 -- [[Trade Secret and Confidential Information]]
 1. Definition of Trade Secrets and Confidential Information
 2. Protection of Trade Secrets and Confidential Information
 3. Abuse of Trade Secret and Confidential Information
