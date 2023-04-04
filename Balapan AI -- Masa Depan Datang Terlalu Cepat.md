@@ -7,7 +7,10 @@ Mohamad Mova Al'Afghani, PhD
 
 Keterangan: 
 
-Artikel ini adalah terjemahan dari artikel saya "[AI race -- the future is coming too fast](https://www.thejakartapost.com/opinion/2023/03/31/ai-race-the-future-is-coming-too-fast.html)" yang diterbitkan oleh Jakarta Post beberapa waktu lalu. Teks dibawah ini diterjemahkan dari Bahasa Inggris kedalam Bahasa Indonesia oleh GPT-4 dengan editing dari penulis.
+Artikel ini adalah terjemahan dari artikel saya "[AI race -- the future is coming too fast](https://www.thejakartapost.com/opinion/2023/03/31/ai-race-the-future-is-coming-too-fast.html)" yang diterbitkan oleh the Jakarta Post beberapa waktu lalu. Teks dibawah ini diterjemahkan dari Bahasa Inggris kedalam Bahasa Indonesia oleh GPT-4 dengan editing dari penulis.
+
+Permanent URL:
+https://mova.alafghani.info/docs/balapan-ai-masa-depan-datang-terlalu-cepat/
 
 
 ====
