@@ -194,12 +194,18 @@ This section includes the signature blocks for each party, indicating their agre
 
 # Part 7 -- Assignments
 
-There are two assignments for this class:
 
-- [[Drafting a Public Private Partnership Contract]]
-- Drafting Legal Opinion
+## Exercise
+
+- See this page for some explanation [[Drafting a Public Private Partnership Contract]]
+- [Assignments at Onedrive Page]([S1-LegalEnglish](https://1drv.ms/f/s!AiLjEZe0IazmkLh9kRn0j4ZqZ60f0Q?e=zQg0by)) 
+- Drafting and negotiating a lease contract (see [onedrive page]([Lease Contract Exercise.docx](https://1drv.ms/w/s!AiLjEZe0IazmkLh_XQnfempLkb-Q-A?e=htZgu9)))
+
+
+## Legal Opinion
 
 You are encouraged to use [ChatGPT ](https://chat.openai.com/chat)for this assignment. 
 
 Related:
 1. [[Menggunakan ChatGPT untuk membantu mengerjakan tugas kuliah atau skripsi]]
+
