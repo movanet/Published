@@ -46,7 +46,7 @@ share: true
 ### Week 5: Environmental Impact Assessment & Licensing
 
 - Purpose
-- Precautionary Principle
+- [[Precautionary Principle]] -- in Bahasa Indonesia
 - Process
 - Licensing
 
