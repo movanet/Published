@@ -44,3 +44,9 @@ Kerusakan serius (serious damage) adalah kerusakan yang memiliki dampak negatif 
 "Lack of full scientific certainty" mengacu pada situasi di mana tidak ada bukti ilmiah yang lengkap atau pasti mengenai risiko atau dampak potensial dari suatu kegiatan. Prinsip Kehati-Hatian menekankan bahwa ketidakpastian ilmiah tidak boleh menjadi alasan untuk menunda langkah-langkah pencegahan.
 
 Dalam konteks perubahan iklim, banyak penelitian yang menunjukkan hubungan antara emisi gas rumah kaca dan pemanasan global. Namun, masih ada ketidakpastian mengenai dampak spesifik dan tingkat keparahan perubahan iklim. Prinsip Kehati-Hatian mengharuskan kita untuk mengambil langkah-langkah pencegahan dalam mengurangi emisi gas
+
+
+## Precautionary Ethics
+Lihat, Al'Afghani, MM,  [Precautionary ethics as mitigation for unknown COVID-19 variants](https://www.thejakartapost.com/paper/2021/06/25/precautionary-ethics-as-mitigation-for-unknown-covid-19-variants.html), The Jakarta Post, 2021. Untuk terjemahan atas artikel tersebut silahkan klik [[Covid-19, Kebijakan dan Etika Kehati-hatian dalam Menghadapi Bahaya yang Tidak Diketahui]].
+
+  
