@@ -23,4 +23,9 @@ At the moment, ChatGPT is not yet primed for factual info generation. But, they'
 
 Now, this is what Bing Chat answered when I told him... it... to explain the annulment of the Water Law by the Constitutional Court. No need to hire extra research assistant, it gives you sources and generate the explanation in a few second....
 
+![[336575950_1238839023431939_2275389050209104158_n.jpg]]
+
+![[336911845_609850594526103_7841314332288896010_n.jpg]]
+
+
 So, what's the use of ChatGPT? Oh, plenty..., it is best for text and code generation...but you'll need a (few) good prompt...
