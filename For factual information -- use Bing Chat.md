@@ -15,6 +15,8 @@ Guardian recently published an article
 
 I think people has been using it wrong. For any factual information, use [Bing Chat](https://www.bing.com/new). For literature search, use [perplexity](https://www.perplexity.ai/) (and many other tools). For single document querying, use Bing Chat.
 
+Note that factual information may also mean internet links related to codes, say, git links or repository links (if you are working with linux). You should always check it the links are real before you execute them on your system!
+
 For multiple document querying.... There's a plethora of those. No code ones are [humata](https://www.humata.ai/) and [petal](https://www.petal.org/). But I prefer to use my own OpenAI API with selfhosted document querying app. This way, I can upload and embed as many docs as I want (but I still need to pay for the API cost). I think we'll have to wait a few years before selfhosted "GPTs" (the term GPT actually belong to OpenAI, we should just use LLM) take off and we can embed our docs for free! Amen. But if you want to play around with these selfhosted (already fine tuned) models just Google vicuna or gpt4all.
 
 At the moment, ChatGPT is not yet primed for factual info generation. But, they're developing the plugins and will connect them with wolfram alpha, which would make them a google killer. Except if Bard is working harder...
