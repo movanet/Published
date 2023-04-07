@@ -2,6 +2,8 @@
 share: true
 ---
 
+Artikel ini diterjemahkan dari postingan berbahasa Inggris [[For factual information -- use Bing Chat]] oleh GPT 3.5 Turbo dengan penyuntingan minimal.
+
 Berikut ini adalah terjemahan artikel Guardian yang baru saja diterbitkan:
 
 _[ChatGPT membuat artikel palsu di Guardian. Begini cara kami menanggapinya](https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-guardian-technology-risks-fake-article?fbclid=IwAR18mVnQbr3TrTX_SL9pfeZSVrDIi6MRaHd8mJaY64pOTQP9uA9XYJDgVIM)_.
