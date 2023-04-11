@@ -3,6 +3,8 @@ tags: #water #conflict #Indonesia
 share: true
 ---
 
+### Map of Water Conflict
+
 The picture below is a snippet from [my presentation](https://www.youtube.com/watch?v=xuPYQqHa5YU) "Strengths and Limitations of The Constitutional Court's "6 Basic Principles"" at the 5th ICCIS, Bali, 5-7 October, 2022
 
 ![[Pasted image 20230411194325.png]]
