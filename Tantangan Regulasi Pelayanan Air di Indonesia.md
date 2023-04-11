@@ -248,3 +248,5 @@ Contoh Jakarta ([AlAfghani et al, 2020](https://cloud.crpg.info/files/hivosbhsin
 
 
 
+Lihat juga:
+1. [[Water Conflict in Indonesia]]
