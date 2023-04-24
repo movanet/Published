@@ -45,10 +45,9 @@ share: true
 
 ### Week 5: Environmental Impact Assessment & Licensing
 
-- Purpose
+- [[Environmental Impact Assessment -- History, Rationale, and Implementation]]
 - [[Precautionary Principle]] -- in Bahasa Indonesia
-- Process
-- Licensing
+- [[ Environmental Licensing in Indonesia]]
 
 ### Week 6: [[Environmental Justice Movies]]
 
