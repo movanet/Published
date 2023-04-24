@@ -13,8 +13,10 @@ This regulation covers the following provisions related to Environmental Impact 
 
 ### Definitions
 
-Amdal (EIA) is an assessment of significant environmental impacts from a planned business or activity, used as a prerequisite for decision-making and included in business licenses or government approvals.
+Amdal (EIA) is an assessment of significant environmental impacts from a planned business or activity, used as a prerequisite for decision-making and included in business licenses or government approvals. (For discussion on EIA history and implementation see: [[Environmental Impact Assessment -- History, Rationale, and Implementation]])
+
 UKL-UPL is a set of environmental management and monitoring processes, used as a prerequisite for decision-making and included in business licenses or government approvals.
+
 SPPL is a commitment statement by the business or activity's responsible party to conduct environmental management and monitoring.
 
 ### This regulation outlines
@@ -44,4 +46,3 @@ The regulation provides a list of businesses and activities that require EIA, UK
 
 Changes to the list of businesses and activities requiring EIA, UKL-UPL, or SPPL can be proposed by ministers, heads of non-ministerial government agencies, governors, mayors/regents, or other stakeholders.
 
-/pu
