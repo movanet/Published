@@ -2,7 +2,7 @@
 share: true
 ---
 
-Attention!!! This is an **unedited** GPT-4 generated article. (Status as of 04232023)
+Attention!!! This is an [[Unedited GPT Generated Text]]. (Status as of 04232023)
 
 
 ## History of Environmental Impact Assessment
