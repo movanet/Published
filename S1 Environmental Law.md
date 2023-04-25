@@ -77,11 +77,10 @@ These movies provide powerful insights into the environmental injustices that ta
 - Private Law Enforcement
 - Administrative Law Enforcement
 
-### Week 9: Alternative Dispute Resolution
-
-- Approaches to Environmental Planning
-- Land Use Planning
-- Sustainable Development
+### Week 9: Stockholm Convention on Persistent Organic Pollutants
+- Definition
+- Types of POPs regulated under Stockholm
+- Polychlorinated Biphenyls and its Regulation
 
 ### Week 10: Environmental Cases
 
