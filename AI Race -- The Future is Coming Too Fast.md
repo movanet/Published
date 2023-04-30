@@ -4,7 +4,7 @@ share: true
 tags: #ai #race #impact #brain #transparency 
 ---
 
-Note: this is an unedited version of my [Jakarta Post March 31st article](https://www.thejakartapost.com/opinion/2023/03/31/ai-race-the-future-is-coming-too-fast.html). The published version had to be condensed in order to fulfill the word limit. 
+Note: this is an unedited version of my [Jakarta Post March 31st article](https://www.thejakartapost.com/opinion/2023/03/31/ai-race-the-future-is-coming-too-fast.html). The published version had to be condensed in order to fulfill the word limit. For the Bahasa Indonesia translation, see [[Balapan AI -- Masa Depan Datang Terlalu Cepat]].
 
 
 Mohamad Mova AlAfghani*
@@ -33,7 +33,7 @@ One of the business model is "document querying". So, essentially, users can upl
 
 On March 15 (the same date OpenAI launched GPT-4 where they claim that "_...it passes a simulated bar exam with a score around the top 10% of test takers_"), Google announced that it will be embedding AI into Google Workspace. A day later, Microsoft announced that it has started trial of the Microsoft 365 "Copilot". What this means is that -- not only "document querying" business model but also most existing startups which relied on OpenAI's GPT could be obsolete. Anything from writing email, summarizing email, copywriting, presentation drafts can be created by AI. What is most important is that these AI will be able to learn and generate text or images from existing data already stored in Google Drive or Microsoft's Onedrive. This creates a paradox: if you want to invest in AI, think again. Or maybe, you should only invest in those big companies like Google or Microsoft who already store for God knows how many zettabytes of consumer data? That's not good for competition.
 
-The third question is how should our education system cope? I am a lecturer. Knowing that Microsoft and Google will soon launched their AI systems to the public, resistance to AI is futile. So I told my students to use ChatGPT and any available AI tools. I just need to come up with better exam questions for the time being. Existing "AI text detector" are no good, they've mistaken original human written text with AI. Besides, with a little prompt-tweaking or use of services like "quillbot" it would make it even harder to detect AI content.
+The third question is how should our education system cope? I am a lecturer. Knowing that Microsoft and Google will soon launched their AI systems to the public, resistance to AI is futile. So I told my students to [use ChatGPT](https://mova.alafghani.info/docs/panduan-lengkap-menggunakan-chatgpt-dengan-prompts-priming-dan-persona/) and any available AI tools. I just need to come up with better exam questions for the time being. Existing "AI text detector" are no good, they've mistaken original human written text with AI. Besides, with a little prompt-tweaking or use of services like "quillbot" it would make it even harder to detect AI content.
 
 As soon as Google and Microsoft opened their AI system to existing services, AI generated content will explode. In a few years, it is possible that AI generated or AI assisted contents from text to music to videos will dominate the web. In a few years, original, non-AI assisted content may be much more difficult to find. AI will write everything, read everything and then summarize it to people. AI will be the intermediaries of every information.
 
