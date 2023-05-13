@@ -11,7 +11,7 @@ Warning! This is an undited GPT-4 created article!
 
 Hukum persaingan usaha adalah seperangkat aturan yang dirancang untuk mempromosikan atau menjaga persaingan sehat dalam suatu pasar, dengan tujuan utama untuk melindungi kepentingan konsumen dan masyarakat umum. Hukum ini bertujuan untuk mencegah praktek-praktek usaha yang dapat merusak persaingan, seperti monopoli, kartel, dan integrasi vertikal atau horizontal yang tidak sehat.
 
-Tujuan utama hukum persaingan usaha adalah untuk memastikan bahwa pasar beroperasi dengan efisien dan adil. Ini berarti memastikan bahwa perusahaan berkompetisi secara sehat satu sama lain, yang pada gilirannya mendorong inovasi dan peningkatan kualitas produk atau layanan. Selain itu, hukum persaingan usaha juga bertujuan untuk melindungi konsumen dari praktek bisnis yang merugikan, seperti penetapan harga yang tidak adil atau penyalahgunaan posisi dominan oleh satu atau beberapa perusahaan.
+Tujuan utama hukum persaingan usaha adalah untuk memastikan bahwa pasar beroperasi dengan efisien dan adil. Ini berarti memastikan bahwa perusahaan berkompetisi secara sehat satu sama lain, yang pada gilirannya mendorong inovasi dan peningkatan kualitas produk atau layanan. Selain itu, hukum persaingan usaha juga bertujuan untuk melindungi konsumen dari praktek bisnis yang merugikan, seperti penetapan harga yang tidak adil atau penyalahgunaan posisi dominan (Lihat [[Posisi Dominan dalam Hukum Persaingan Usaha]]) oleh satu atau beberapa perusahaan.
 
 ## B. Sejarah dan Perkembangan Hukum Persaingan Usaha di Indonesia
 
