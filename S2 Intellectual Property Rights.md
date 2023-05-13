@@ -30,7 +30,7 @@ Upon completion of this course, students will be able to:
 3. Abuse of Trade Secret and Confidential Information
 
 #### Week 3 -- IPR and Competition Law
-- Background on Competition Law
+- Background on Competition Law [[Pengantar Hukum Persaingan Usaha]]
 - Vertical Integration (In Bahasa Indonesia: [[Integrasi Vertikal dalam Hukum Persaingan Usaha]])
 - IPR as Dominance
 - Essential Facilities
