@@ -31,6 +31,7 @@ Upon completion of this course, students will be able to:
 
 #### Week 3 -- IPR and Competition Law
 - Background on Competition Law
+- Vertical Integration (In Bahasa Indonesia: [[Integrasi Vertikal dalam Hukum Persaingan Usaha]])
 - IPR as Dominance
 - Essential Facilities
 
@@ -48,9 +49,6 @@ Upon completion of this course, students will be able to:
 - Legal protection of genetic codes
 - IPR in Synthetic Biology 
 - CRISPR and Open Source Genetics 
-
-
-### Mid Semester Test
 
 
 #### Week 7 -- Artificial Intelligence and Intellectual Property 
