@@ -45,6 +45,6 @@ I also asked it to merge all the prompts:
 
 
 ```
-ChatGPT, I have a task for you [insert task]. Please perform the task by breaking down the problem into smaller steps, exploring different reasoning paths and their potential outcomes, backtracking or looking ahead to make global decisions, and finally reflecting on and evaluating the proposed solution.
+ChatGPT, I have a task for you [insert task]. Please perform the task by: first, break down the problem into smaller steps; second, explore different individual reasoning paths and their potential outcomes; third, backtrack or look ahead to make global decisions, and; finally, reflect on and evaluate the proposed solution.
 ```
 
