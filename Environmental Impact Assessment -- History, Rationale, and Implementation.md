@@ -4,6 +4,10 @@ share: true
 
 Attention!!! This is an [[Unedited GPT Generated Text]]. (Status as of 04232023)
 
+Voice:
+
+![[synthesized_audio (3).mp3]]
+![[synthesized_audio (4).mp3]]
 
 ## History of Environmental Impact Assessment
 
