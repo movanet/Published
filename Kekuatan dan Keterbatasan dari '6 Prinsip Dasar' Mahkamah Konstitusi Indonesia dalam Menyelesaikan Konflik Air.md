@@ -19,7 +19,7 @@ Konflik air telah menjadi isu yang sering muncul di berbagai media  Di Sumatera 
 
 Konflik air ini kemungkinan akan semakin intensif karena semakin menipisnya ketersediaan air. Semua pulau di Indonesia menderita polusi air permukaan yang berat. DAS di Jawa, Bali, Nusa Tenggara Timur dan Sulawesi sudah mengalami stres air. Pulau Jawa, yang merupakan rumah bagi 57% (143 juta) populasi Indonesia, mengalami stres air sedang hingga tinggi. Diperkirakan pada tahun 2045, hampir semua DAS di Jawa, Bali, dan pulau Nusa Tenggara akan mengalami stres air yang parah.
 
-Pada tahun 2015, menanggapi petisi untuk membatasi kontrol sektor swasta atas sumber daya air, Mahkamah Konstitusi membatalkan UU Air 7/2004 dan memperkenalkan 6 prinsip dasar, yang telah digunakan sebagai pedoman normatif untuk mengimplementasikan regulasi tentang sumber daya air dan untuk menyelesaikan konflik air di masa depan.
+Pada tahun 2015, menanggapi petisi untuk membatasi kontrol sektor swasta atas sumber daya air, Mahkamah Konstitusi membatalkan UU Air Nomor 7 Tahun 2004 dan memperkenalkan 6 prinsip dasar, yang telah digunakan sebagai pedoman normatif untuk mengimplementasikan regulasi tentang sumber daya air dan untuk menyelesaikan konflik air di masa depan.
 
 Namun, prinsip-prinsip ini memiliki banyak ambiguitas. Makalah ini akan mengkaji secara kritis prinsip-prinsip tersebut dan kemudian menguraikan kesulitan dalam implementasinya. 
 
