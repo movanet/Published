@@ -10,6 +10,8 @@ tags: #water #constitution #allocation #conflict #indonesia
 Untuk versi audio, silahkan dengarkan disini:
 ![[prj_3128647_50a8c5f1048adbcca4147a9496c7c056_1685535960.mp3]]
 
+Untuk video presentasi [silahkan klik link ini](https://www.youtube.com/watch?v=xuPYQqHa5YU&t=814s).
+
 
 ![[Pasted image 20230531191930.png]]
 
