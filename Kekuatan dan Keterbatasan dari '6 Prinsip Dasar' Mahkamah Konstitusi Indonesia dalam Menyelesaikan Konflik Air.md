@@ -38,3 +38,6 @@ Berikut ini adalah beberapa kritik atas 6 prinsip dasar Mahkamah Konstitusi dala
 7. Terakhir, prinsip-prinsip ini tampaknya mengabaikan produktivitas ekonomi sebagai nilai yang diakui dalam tata kelola air. Ini memiliki dua implikasi: pertama, tapak air (*water footprint*) diabaikan, yaitu air akan didistribusikan ke petani kecil atau perusahaan milik negara/daerah/desa meskipun pendistribusian itu mungkin kurang efisien; dan kedua, prinsip ini melarang realokasi air dari penggunaan air yang kurang produktif ke penggunaan air yang lebih produktif. 
 
 Dalam menghadapi keterbatasan ini, makalah ini merekomendasikan agar Mahkamah Konstitusi menggunakan pendekatan teleologis dan berdasarkan pendekatan tersebut, merevisi 6 prinsip dasar dalam kasus-kasus mendatang sehingga dapat menangani semua jenis konflik air. Implementasi 6 prinsip dasar melalui regulasi dan penyelesaian konflik oleh pengadilan atau badan lainnya juga harus menggunakan pendekatan teleologis.
+
+Related:
+[[Water Conflict in Indonesia]]
