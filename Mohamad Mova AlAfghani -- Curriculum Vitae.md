@@ -52,7 +52,7 @@ International legal advisor and scholar with expertise in the fields of water la
 
 - **World Health Organisation (WHO)**: Expert Consultant (April 2018 – September 2019). Reviewed, prepared an academic draft, and drafted provisions for the new Drinking Water Quality Regulation.
 
-- **ASEAN Intergovernmental Conference on Human Rights (AICHR) Regional Research Team**: Member (December 2018-Present). Reviewed the work of ASEAN Working Group on Water Resources Management (AWGWRM) officials.
+- **ASEAN Intergovernmental Conference on Human Rights (AICHR) Regional Research Team**: Member (December 2018-2019). Reviewed the work of ASEAN Working Group on Water Resources Management (AWGWRM) officials.
 
 - **Raoul Wallenberg Institute (RWI)**: Researcher for ASEAN-wide The Right to Safe Drinking Water Including Toxic Waste Aspect (August 2018 – Dec 2018). Reviewed water regulations and policies across all ASEAN countries. Provide research assistance to UN Special Rapporteur on Toxics.
 
