@@ -34,27 +34,27 @@ International legal advisor and scholar with expertise in the fields of water la
 
 ## Research Consultancies and Positions 
 
-- **United Nations Development Program (UNDP)**: Expert Consultant for Business and Human Rights (September 2022 - Present). Key activities include drafting an Environmental and Human Rights Due Diligence (EHRDD) on Water Pollution and formulating curricula for industry training.
+- **United Nations Development Program (UNDP)**: Expert Consultant for Human Rights and Environmental Due Diligence (September 2022 - May 2023). Key activities include drafting an Environmental and Human Rights Due Diligence (EHRDD) on Water Pollution and formulating curricula for industry training.
 
-- **International Budget Partnership**: Monitoring and Evaluation Consultant (January 2022 - Present). Developed a country-specific case study approach and undertook analysis to assess contribution and change factors and mechanisms.
+- **International Budget Partnership**: Monitoring and Evaluation Consultant (January 2022 - May 2023). Developed a country-specific case study approach and undertook analysis to assess contribution and change factors and mechanisms.
 
 - **IUWASH**: Expert Consultant (November 2021 – April 2022). Evaluated the “targeting policy” for the water and sanitation access of the Below 40 community, primarily in urban areas.
 
-- **Food and Agricultural Organization (FAO) Asia Pacific**: Expert Consultant (October 2021- March 2022). Conducted a scoping study of Water Tenure in Indonesia and compared Kahayan Catchment and Rejoso Catchment in the context of climate change adaptation.
+- **Food and Agricultural Organization (FAO) Asia Pacific**: Expert Consultant on Water Tenure (October 2021- March 2022). Conducted a scoping study of Water Tenure in Indonesia and compared Kahayan Catchment and Rejoso Catchment in the context of climate change adaptation.
 
-- **Tap Room ltd.**: Member of Monitoring and Evaluation Consultant Team (October 2021- October 2022) and Evaluation Team (August 2020 – August 2021). Evaluated Publish What You Pay Indonesia GPSA-World Bank program in mining governance and International Budget Partnership Monitoring and Evaluation (MEL) on Climate Finance Accountability.
+- **Tap Room Ltd.**: Member of Monitoring and Evaluation Consultant Team (October 2021- October 2022) and Evaluation Team (August 2020 – August 2021). Evaluated Publish What You Pay Indonesia GPSA-World Bank program in mining governance and International Budget Partnership Monitoring and Evaluation (MEL) on Climate Finance Accountability.
 
 - **Center for Regulation, Policy and Governance (CRPG)**: Various positions, including Senior Researcher (October 2020 - Present), Director (March 2013 - Present), Researcher (February 2016 – December 2016), Lead Researcher (January 2015 – September 2015), and Principal Investigator (January 2015 – April 2016). Roles encompassed conducting various research projects, managing CRPG, and developing business partnerships.
 
 - **The World Bank**: Expert Consultant on Water Security (June 2020 – March 2021). Conducted institutional and regulatory analysis of the Indonesian water sector.
 
-- **UNIDO-KLHK**: Expert Advisor on National Polychlorinated Biphenyls (PCB) Management Plan (December 2019- December 2020).
+- **United Nations Industrial Development-Ministry of Environment and Forestry**: Expert Advisor on National Polychlorinated Biphenyls (PCB) Management Plan (December 2019- December 2020).
 
 - **World Health Organisation (WHO)**: Expert Consultant (April 2018 – September 2019). Reviewed, prepared an academic draft, and drafted provisions for the new Drinking Water Quality Regulation.
 
 - **ASEAN Intergovernmental Conference on Human Rights (AICHR) Regional Research Team**: Member (December 2018-Present). Reviewed the work of ASEAN Working Group on Water Resources Management (AWGWRM) officials.
 
-- **Raoul Wallenberg Institute (RWI)**: Researcher for ASEAN-wide The Right to Safe Drinking Water Including Toxic Waste Aspect (August 2018 – Dec 2018). Reviewed water regulations and policies across all ASEAN countries.
+- **Raoul Wallenberg Institute (RWI)**: Researcher for ASEAN-wide The Right to Safe Drinking Water Including Toxic Waste Aspect (August 2018 – Dec 2018). Reviewed water regulations and policies across all ASEAN countries. Provide research assistance to UN Special Rapporteur on Toxics.
 
 - **United Nations Industrial Development Organization (UNIDO)**: Expert on the Drafting of Ministerial Regulation on Polychlorinated Biphenyls (PCB) (October 2018 – March 2019). Reviewed and provided input into the Draft of Ministerial Regulation.
 
