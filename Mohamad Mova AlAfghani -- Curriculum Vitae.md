@@ -4,7 +4,7 @@ share: true
 
 
 
-![[movprofilepicshot3 (1).jpg|300]] 
+![[Pasted image 20230602192207.png]]
 
 
 
