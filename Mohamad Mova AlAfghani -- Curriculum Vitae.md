@@ -183,18 +183,19 @@ International legal advisor and scholar with expertise in the fields of water la
 
 ## Other Engagements
 
-1.	2022 - Involved as expert and speakers at Make Rights Real Initiative. [Link](https://human-rights-to-water-and-sanitation.org/mrrtalk-openhour/)
-2.	2022 - Featured as one of the speakers in Asia in Focus, UNDP Business and Human Rights Agenda. [Link](https://www.youtube.com/watch?v=VnR1uga6xL4)
-3.	Participated in an expert consultation with the UN Special Rapporteur on the Human Rights to Water regarding rural water supply, 21-25 April, 2022.
-4.	2015-Present - Member of Jejaring AMPL (Water, Sanitation and Hygiene Network), Indonesia, currently serving as Coordinator for Research Cluster.
-5.	2020-2021 - Served as a member of the Advisory Committee for Water and Open Government, SIWI, WRI and Open Government Partnership.
-6.	2020 - Provided input and critique to the House of Representative regarding Risk Based Regulation applied in the Draft Jobs Creation Law, June 9, 2020. [Link](https://www.dpr.go.id/dokakd/dokumen/BALEG-RJ-20200610-033817-9215.pdf)
-7.	2013-2019 - Member of Waterlex.
-8.	2012 - Contributor to Marseille’s 2012 World Water Forum Target and Solution Groups 1 (Stakeholders’ engagement for effective water policy and management) and 2 (Performance measurement, regulation and capacity building in the water sector).
-9.	2012-Present - Member of the Indonesian Freedom of Information Network (FOINI).
-10.	2011 - Involved in the Preparation for GOLD II Report with the UNESCO Centre for Water Law, Policy and Science/UCLG.
-11.	2011 - Member of International Water Association Task Force on Stakeholders Engagement.
-12.	2005-Present - Member of Task Force on Implications and Policies for Center for Responsible Nanotechnology (CRN), a nanotech policy think tank based in New York.
+1.	2023- now [member of the International Water Law Academy (IWLA)](https://iwla.whu.edu.cn/index.php?id=3624), University of Wuhan, China
+2.	2022 - Involved as expert and speakers at Make Rights Real Initiative. [Link](https://human-rights-to-water-and-sanitation.org/mrrtalk-openhour/)
+3.	2022 - Featured as one of the speakers in Asia in Focus, UNDP Business and Human Rights Agenda. [Link](https://www.youtube.com/watch?v=VnR1uga6xL4)
+4.	Participated in an expert consultation with the UN Special Rapporteur on the Human Rights to Water regarding rural water supply, 21-25 April, 2022.
+5.	2015-Present - Member of Jejaring AMPL (Water, Sanitation and Hygiene Network), Indonesia, currently serving as Coordinator for Research Cluster.
+6.	2020-2021 - Served as a member of the Advisory Committee for Water and Open Government, SIWI, WRI and Open Government Partnership.
+7.	2020 - Provided input and critique to the House of Representative regarding Risk Based Regulation applied in the Draft Jobs Creation Law, June 9, 2020. [Link](https://www.dpr.go.id/dokakd/dokumen/BALEG-RJ-20200610-033817-9215.pdf)
+8.	2013-2019 - Member of Waterlex.
+9.	2012 - Contributor to Marseille’s 2012 World Water Forum Target and Solution Groups 1 (Stakeholders’ engagement for effective water policy and management) and 2 (Performance measurement, regulation and capacity building in the water sector).
+10.	2012-Present - Member of the Indonesian Freedom of Information Network (FOINI).
+11.	2011 - Involved in the Preparation for GOLD II Report with the UNESCO Centre for Water Law, Policy and Science/UCLG.
+12.	2011 - Member of International Water Association Task Force on Stakeholders Engagement.
+13.	2005-Present - Member of Task Force on Implications and Policies for Center for Responsible Nanotechnology (CRN), a nanotech policy think tank based in New York.
 
 
 ## Fellowships
