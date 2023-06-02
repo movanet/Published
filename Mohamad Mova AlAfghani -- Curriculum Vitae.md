@@ -99,39 +99,65 @@ International legal advisor and scholar with expertise in the fields of water la
 14.	AlAfghani, MM. Kampanye Melawan Terorisme telah Merusak Tatanan Hukum. (Campaign Against Terrorism have Disrupted the Legal Order) Published in Jurnal Teropong MAPPI (Masyarakat Pemantau Peradilan Indonesia, November, 2002). Available on [Link](http://www.pemantauperadilan.com)
 
 
+## Reports
+
+- Al’Afghani, MM, "Water Tenure in Indonesia," FAO, 2022.
+- Abed Khalil, 'Indonesia Vision 2045: Toward Water Security (Policy Note),' [World Bank 2021](https://openknowledge.worldbank.org/handle/10986/36727) accessed 19 January 2022.
+- Al’Afghani, M.M., Qowamuna, N.A., "Regulasi dan Kebijakan Terkait dengan Penyediaan Air Minum bagi Masyarakat B40 di Perkotaan," PSKK-UGM and IUWASH, 2021. 
+- Cunningham, R., Al’Afghani, M.M., Qowamuna, N.A., Winterford, K., Willetts, J., "Sanitation and Water for All (SWA): Mapping WASH actors in Indonesia using Social Network Analysis," University of Technology Sydney, 2020.
+- Qowamuna N, Al’Afghani MM, Willetts, J, Winterford, K, "Strengthening mutual accountability and partnerships for WASH, Country brief, Indonesia," SWA, CRPG and ISF-UTS, 2021.
+- Geall, S, Al’Afghani, MM, "The right to safe water in Southeast Asia," Raoul Wallenberg Institute, 2020. [Link](https://rwi.lu.se/download/the-right-to-safe-water-in-southeast--asia/?wpdmdl=18063)
+- Soeters, S, Al’Afghani, MM, Avessina, J, Willets, J, "Supporting Sustainable Rural Water Service Delivery: District Association of Community-Based Organizations in Indonesia. Enterprise in WASH – Research Report 10," ISF-UTS, 2018.
+- Avessina, MJ, AlAfghani, MM, Anggraini, N, Maulana, M, "Tata Kelola Sanitasi di Empat Kabupaten (Sanitation Governance in Four Regencies)," CRPG and SNV Netherlands, August 2018.
+- AlÁfghani, MM, Prayitno, DE, Mills, F, Willets, J, "Increasing local government responsibility for communal scale sanitation; Part 2: Using Regional Budget (APBD) to support post-construction sustainability of communal sanitation," Indonesia Infrastructure Initiative, December, 2016.
+- Mills, F, Willets, J, AlÁfghani, MM, "Increasing local government responsibility for communal scale sanitation; Part 1, Review of national program guidelines and two city case studies," Indonesia Infrastructure Initiative, December, 2016.
+- AlAfghani, MM, Widiyatmoko, P, Crow, C. "Indonesia: End of Term Report," Independent Reporting Mechanism, Open Government Partnership, 2017.
+- Al’Afghani, MM, Paramita D, "Polychlorinated Biphenyls (PCBs) Phasing-Out Regulation in Indonesia: Final Report," United Nations Industrial Development Organization and the Ministry of Environment and Forestry, Republic of Indonesia, 2016.
+- Al’Afghani, MM, Paramita D, Avessina MJ, Muhajir, MA, Heriati, F. "The Role of Regulatory Frameworks for Ensuring the Sustainability of Community Based Water and Sanitation," Australia Indonesia Infrastructure Research Project, Indonesia Infrastructure Initiative, 2016. [Link](https://crpg.info/docs/aiira/aiirareport8072016.pdf)
+- Al’Afghani, MM, Paramita, D, Mitchell, C, Ross, K. "Review of Regulatory Framework for Local Scale “Air Limbah”," Center for Regulation, Policy and Governance, Universitas Ibn Khaldun Bogor and Institute for Sustainable Futures, UTS, 2015. [Link](http://communitysanitationgovernance.info/wp-content/uploads/2016/09/ISF-UTS_2015_Local-ScaleSanitationIndonesia_Legal-Review-Report.pdf)
+- AlÁfghani, MM, Widiyatmoko, P. "Indonesia: Third Progress Report," Independent Reporting Mechanism, Open Government Partnership, 2017.
+- Al’Áfghani, MM, "Independent Reporting Mechanism: Indonesia Special Accountability Report," Open Government Partnership 2014. [Link](http://www.opengovpartnership.org/sites/default/files/Indonesia_Special_Acc_Report_Public.pdf)
+- Alafghani, MM. "Review of Regulation of Jakarta Water Services," Jakarta Water Sector Regulatory Body, 2014.
+- Saragih, AA, Alafghani, MM, Yasin, M, "Transparansi Perizinan Dalam Sektor Pertambangan dan Perkebunan," Unit Kerja Presiden Bidang Pengawasan dan Pengendalian Pembangunan – UKP4, 2014.
+- AlAfghani, MM. "Review of Community-Based Water and Sanitation Draft Regional By Law for the Sikka Regency, East Nusa Tenggara," Dropbydrop, Watsan Working Group of NTT Province and UNICEF, 2012.
+- Alafghani, MM, "Feasibility Study of Right to Water and Sanitation Pilot Project in Indonesia," Both Ends, August 2009.
+- AlAfghani, MM. "Transparency in DKI Jakarta’s Drinking Water Utilities Regulatory Bodies," ECOTAS and Tifa Foundation, August, 2011.
+- "Contribution to Global Water Partnership Integrated Water Resources Management Toolbox C6.03: Water Services," Global Water Partnership, 2011.
+
 ## Selected Op-eds
 
-1. [Can the court’s concern over water privatization be justified? (Part 2 of 2)](), The Jakarta Post, Tue, March 10, 2015
-2. [Court decision brings water governance reforms to a halt (Part 1 of 2)](), The Jakarta Post, Mon, March 09, 2015
-3. [Towards Community Water Supply](), The Jakarta Post, Fri, 03/22/2013 11:22 AM
-4. [The Elements of “State Control”](), The Jakarta Post, Mon, 01/14/2013
-5. [The new governor and Jakarta’s drinking water problem](), October, 20, 2012
-6. [Incoherence in the debate over ‘privatization’](), The Jakarta Post, July,22, 2012; Republished by the New Straits Times and The Malaysian Insider
-7. [Authority in Water Resources Conservation](), The Jakarta Post, June 30, 2012 
-8. [When It Comes to Water Services, Jakarta Is Living in the Distant Past](), The Jakarta Globe, October 16, 2011
-9. [RI’s Water Services Suffering from a lack of Governance](), The Jakarta Post, March 30, 2010
-10. [Indonesia Needs a Strong Water Services Law](), The Jakarta Post, August 31, 2009
-11. [Can Public Service Law be Applied to Private Sector?](), The Jakarta Post, July 14, 2009
-12. [The Need for Clarification on HP-3 Rights](), The Jakarta Post, May 14th, 2009
-13. [Water Services Transparency](), The Jakarta Post, March 20, 2009
-14. [Coastal Management Law Review](), The Jakarta Post, April 15th , 2008
-15. [Ultimate Risks of Water Privatizations](), The Jakarta Post, May 17th, 2007 
-16. [Access to water is a fundamental human rights](), The Jakarta Post, July 10th 2007
-17. [Nanotechnology requires legal umbrella](), The Jakarta Post, January 20th 2006, republished by IP Frontline Magazine, [www.ipfrontline.com](http://www.ipfrontline.com)
-18. [Prophet Muhammad Cartoons and Freedom of Expression](), The Jakarta Post, February 18th, 2006
-19. [Developing Countries Must be Ready for Nanotechnology](), The Jakarta Post, February 27th, 2006
-20. [Lebanon Crisis and Unrestricted Warfare](), The Jakarta Post, August 04th 2006
-21. [The Fourth Generation of Human Rights](), The Jakarta Post, September, 04th 2006
-22. [Is Technology turning privacy into an endangered species?](), The Jakarta Post, October 20th, 2006
-23. [Extradition Treaty Must Exclude Terrorism (with Bambang Widjojanto)](), The Jakarta Post, March 14th , 2005
-24. [Limited Implementation of Sharia in Aceh](), The Jakarta Post, July 11th 2005
-25. [Indonesian Copyright Law not copyleft-friendly](), The Jakarta Post, May 27th 2005
-26. [Indonesia Needs to Support Access to Knowledge Treaty](), The Jakarta Post, June 18th 2005, Republished by IP Frontline Magazine, [www.ipfrontline.com](http://www.ipfrontline.com)
-27. [Hyperegulated Society and Its Discontents](), The Jakarta Post, June 28th 2005
-28. [IP Strategy for Developing Nations](), The Jakarta Post, December 24th , 2005
-29. [Labor Strike Procedure in Indonesia](), Legal Brief, [www.theceli.com](http://www.theceli.com)
-30. [Can a State Imply Censorship towards the Internet?](), Center for Law Information (CeLI), [www.theceli.com](http://www.theceli.com)
-31. [The Spread of ‘Preemptivism’ and Indonesia’s Sovereignty](), The Jakarta Post October 7th, 2004, republished in the Yale Center for the Study of Globalization, Yale University, [yaleglobal.yale.edu](http://yaleglobal.yale.edu)
+1. [Why wealthy countries and companies need to do more to clean up global toxic chemical pollution](https://theconversation.com/why-wealthy-countries-and-companies-need-to-do-more-to-clean-up-global-toxic-chemical-pollution-180501) (with Dyah Paramita), The Conversation, April 21, 2-22
+2. [Can the court’s concern over water privatization be justified? (Part 2 of 2)](), The Jakarta Post, Tue, March 10, 2015
+3. [Court decision brings water governance reforms to a halt (Part 1 of 2)](), The Jakarta Post, Mon, March 09, 2015
+4. [Towards Community Water Supply](), The Jakarta Post, Fri, 03/22/2013 11:22 AM
+5. [The Elements of “State Control”](), The Jakarta Post, Mon, 01/14/2013
+6. [The new governor and Jakarta’s drinking water problem](), October, 20, 2012
+7. [Incoherence in the debate over ‘privatization’](), The Jakarta Post, July,22, 2012; Republished by the New Straits Times and The Malaysian Insider
+8. [Authority in Water Resources Conservation](), The Jakarta Post, June 30, 2012 
+9. [When It Comes to Water Services, Jakarta Is Living in the Distant Past](), The Jakarta Globe, October 16, 2011
+10. [RI’s Water Services Suffering from a lack of Governance](), The Jakarta Post, March 30, 2010
+11. [Indonesia Needs a Strong Water Services Law](), The Jakarta Post, August 31, 2009
+12. [Can Public Service Law be Applied to Private Sector?](), The Jakarta Post, July 14, 2009
+13. [The Need for Clarification on HP-3 Rights](), The Jakarta Post, May 14th, 2009
+14. [Water Services Transparency](), The Jakarta Post, March 20, 2009
+15. [Coastal Management Law Review](), The Jakarta Post, April 15th , 2008
+16. [Ultimate Risks of Water Privatizations](), The Jakarta Post, May 17th, 2007 
+17. [Access to water is a fundamental human rights](), The Jakarta Post, July 10th 2007
+18. [Nanotechnology requires legal umbrella](), The Jakarta Post, January 20th 2006, republished by IP Frontline Magazine, [www.ipfrontline.com](http://www.ipfrontline.com)
+19. [Prophet Muhammad Cartoons and Freedom of Expression](), The Jakarta Post, February 18th, 2006
+20. [Developing Countries Must be Ready for Nanotechnology](), The Jakarta Post, February 27th, 2006
+21. [Lebanon Crisis and Unrestricted Warfare](), The Jakarta Post, August 04th 2006
+22. [The Fourth Generation of Human Rights](), The Jakarta Post, September, 04th 2006
+23. [Is Technology turning privacy into an endangered species?](), The Jakarta Post, October 20th, 2006
+24. [Extradition Treaty Must Exclude Terrorism (with Bambang Widjojanto)](), The Jakarta Post, March 14th , 2005
+25. [Limited Implementation of Sharia in Aceh](), The Jakarta Post, July 11th 2005
+26. [Indonesian Copyright Law not copyleft-friendly](), The Jakarta Post, May 27th 2005
+27. [Indonesia Needs to Support Access to Knowledge Treaty](), The Jakarta Post, June 18th 2005, Republished by IP Frontline Magazine, [www.ipfrontline.com](http://www.ipfrontline.com)
+28. [Hyperegulated Society and Its Discontents](), The Jakarta Post, June 28th 2005
+29. [IP Strategy for Developing Nations](), The Jakarta Post, December 24th , 2005
+30. [Labor Strike Procedure in Indonesia](), Legal Brief, [www.theceli.com](http://www.theceli.com)
+31. [Can a State Imply Censorship towards the Internet?](), Center for Law Information (CeLI), [www.theceli.com](http://www.theceli.com)
+32. [The Spread of ‘Preemptivism’ and Indonesia’s Sovereignty](), The Jakarta Post October 7th, 2004, republished in the Yale Center for the Study of Globalization, Yale University, [yaleglobal.yale.edu](http://yaleglobal.yale.edu)
 
 
 
