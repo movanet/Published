@@ -1,4 +1,3 @@
-
 ---
 share: true
 ---
@@ -51,11 +50,11 @@ Upon completion of this course, students will be able to:
 - CRISPR and Open Source Genetics 
 
 
-#### Week 7 -- Artificial Intelligence and Intellectual Property 
+#### Week 7 -- Artificial Intelligence and Intellectual Property ([[HAKI dan Artificial Intelligence]])
 - International Treaties on IP Protection 
 - Enforcement Mechanisms in Different Jurisdictions 
 - Comparative Analysis of IP Laws Across Jurisdictions 
-- US Copyright Office on AI -- in Bahasa Indonesia ([[HAKI dan Artificial Intelligence]])
+- US Copyright Office on AI  
 
 #### Week 8 -- IPR Case Analysis 
 - Group formation
