@@ -39,7 +39,7 @@ Upon completion of this course, students will be able to:
 - IPR as exclusion to FoI
 - Application of Harm and Public Interest Tests
 
-#### Week 5 -- Blockchain and Intellectual Property Rights
+#### Week 5 -- Blockchain and Intellectual Property Rights [[Catatan Kuliah -- Blockchain dan Hak Kekayaan Intelektual]]
 - Introduction to Blockchain 
 - Using Blockchain to protect IPR 
 - Abuse potential
