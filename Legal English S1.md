@@ -129,6 +129,12 @@ Course Outline
 -   Provides the name, title, and contact information of the author of the legal opinion
 -   May include the date of the opinion and any other relevant information
 
+### 8. Sources
+- [Report of the Legal Opinion Committee](https://www.ncbar.org/wp-content/uploads/2020/12/Report-of-the-Legal-Opinion-Committee-of-the-BL-Section-of-the-NCBA.pdf)
+-  [Anatomy of LO](https://www.bfwlaw.com/wp-content/uploads/2019/08/Anatomy-of-a-Legal-Opinion.pdf)
+- [Example LO -- CoE](https://rm.coe.int/legal-opinion-dlapil02-2021-the-interpretation-of-the-notion-of-jurisd/1680a19c58)
+-  
+
 # Part 6-- Common Structure of a Contract
 
 ### Parties 
