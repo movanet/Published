@@ -38,10 +38,10 @@ share: true
 
 ### Week 4: Environmental Standards & Pollution Control
 
-- Carrying Capacity
-- Assimilative Capacity
-- Water Quality Parameters
-- Air Quality Parameters
+- [[Carrying Capacity -- Balancing Human Needs and Environmental Sustainability]]
+- [[Assimilative Capacity -- Understanding Nature's Ability to Absorb Impacts]]
+- [[Water Quality Parameters -- Monitoring and Maintaining the Health of Our Waterways]]
+- [[Air Quality Parameters-- Monitoring and Protecting Our Atmosphere]]
 
 ### Week 5: Environmental Impact Assessment & Licensing
 
@@ -67,9 +67,9 @@ These movies provide powerful insights into the environmental injustices that ta
 
 ### Week 7: Strict Liability
 
-- Types of Liabilities in the Common Law
-- Strict Liability Regime
-- Hazardous Materials and Strict Liability
+- [[Types of Liabilities in Common Law]]
+- [[The Strict Liability Regime]]
+- [[Hazardous Materials and Strict Liability]]
 
 ### Week 8:  Law Enforcement 
 
@@ -78,9 +78,9 @@ These movies provide powerful insights into the environmental injustices that ta
 - Administrative Law Enforcement
 
 ### Week 9: Stockholm Convention on Persistent Organic Pollutants
-- Definition
-- Types of POPs regulated under Stockholm
-- Polychlorinated Biphenyls and its Regulation
+- [[Persistent Organic Pollutants -- A Global Threat to Health and the Environment]]
+- [[Polychlorinated Biphenyls (PCBs)-- Understanding Their Impact and Regulation]]
+
 
 ### Week 10: Environmental Cases
 
