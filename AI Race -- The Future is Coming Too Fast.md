@@ -9,6 +9,9 @@ Note: this is an unedited version of my [Jakarta Post March 31st article](https:
 
 Mohamad Mova AlAfghani*
 
+Voice:
+![[synthesized_audio (5).mp3]]
+
 There has been many debates and criticism about the recently viral ChatGPT. In addition to those who are "wowed" by its capability, some people notes that ChatGPT sometimes "hallucinate" with its output. Oftentimes, its hallucination can only be detected by a domain expert. This is correct and I have experienced it myself when using ChatGPT to assist me on my research on water governance or environmental regulation -- the domains of my expertise.
 
 However, people are often mistaken ChatGPT with GPT (Generative Pre-trained Transformer) or AI "language models" in general. I am no expert in AI, but I have been using these AI tools for some time now to help me with my research. First, ChatGPT is only a "fine-tuned" version of OpenAI's GPT (the company that created it). A better sense of what the GPT can do can be done using OpenAIs playground where we select many versions of the GPT models. Secondly, the GPT models including ChatGPT can have better results if the user better manipulate their prompts -- something known as "prompt engineering".
