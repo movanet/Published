@@ -81,6 +81,8 @@ Upon completion of this course, students will be able to:
 
 
 ### Final Exam
+#### UAS 2023 
+[[Pedoman Tugas Makalah HAKI (S2)]]
 
 
 Additional:
