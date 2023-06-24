@@ -46,6 +46,7 @@ More information:
     -   where the holder makes reasonable efforts to maintain its secrecy.
 
 
+
 - What are the rights conferred by trade secrets? The holder of a trade secret has the right to prevent others from acquiring, using or disclosing that secret information without his consent.
   
 - Is it possible to sell and license trade secrets? Yes. Trade secrets can be sold or licensed.

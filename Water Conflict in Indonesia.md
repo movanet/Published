@@ -21,3 +21,7 @@ This paper discusses the strengths and limitations of the Constitutional Court�
 ### Bahasa Indonesia Summary
 
  Artikel ini menjelaskan bahwa prinsip-prinsip tersebut dapat digunakan sebagai pedoman normatif untuk mengimplementasikan regulasi sumber daya air dan berpotensi digunakan untuk menyelesaikan konflik air di masa depan. Namun, prinsip-prinsip tersebut ambigu di banyak bagian dan sulit untuk diterapkan dalam konflik kualitas air atau konflik air yang muncul dari pengembangan spasial. Artikel ini menemukan bahwa salah satu kekuatan prinsip tersebut adalah memberikan pedoman normatif dasar untuk memecahkan konflik alokasi air, perlindungan hak asasi manusia, dan lingkungan. Namun, prinsip-prinsip tersebut memiliki beberapa keterbatasan: mengabaikan efisiensi atas persepsi kesetaraan dan berpotensi membatasi realokasi air di antara pengguna yang berbeda. Prinsip-prinsip tersebut juga sulit untuk diterapkan dalam konflik atas kualitas air atau konflik air yang muncul dari pengembangan spasial. Oleh karena itu, artikel ini merekomendasikan agar Mahkamah Konstitusi mengembangkan kembali prinsip-prinsip tersebut sehingga dapat melampaui keterbatasannya.
+ 
+
+Related:
+[[Kekuatan dan Keterbatasan dari '6 Prinsip Dasar' Mahkamah Konstitusi Indonesia dalam Menyelesaikan Konflik Air]]
